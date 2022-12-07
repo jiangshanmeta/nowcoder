@@ -1,0 +1,3541 @@
+{
+    "algorithm": [
+        {
+            "difficulty": 3,
+            "questionNo": "NC1",
+            "questionTitle": "大数加法",
+            "questionUUid": "11ae12e8c6fe48f883cad618c2e81475",
+            "questionId": 1061819
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC2",
+            "questionTitle": "重排链表",
+            "questionUUid": "3d281dc0b3704347846a110bf561ef6b",
+            "questionId": 603
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC3",
+            "questionTitle": "链表中环的入口结点",
+            "questionUUid": "253d2c59ec3e4bc68da16833f79a38e4",
+            "questionId": 23449
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC4",
+            "questionTitle": "判断链表中是否有环",
+            "questionUUid": "650474f313294468a4ded3ce0f7898b9",
+            "questionId": 605
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC5",
+            "questionTitle": "二叉树根节点到叶子节点的所有路径和",
+            "questionUUid": "185a87cd29eb42049132aed873273e83",
+            "questionId": 617
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC6",
+            "questionTitle": "二叉树中的最大路径和",
+            "questionUUid": "da785ea0f64b442488c125b441a4ba4a",
+            "questionId": 622
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC7",
+            "questionTitle": "买卖股票的最好时机(一)",
+            "questionUUid": "64b4262d4e6d4f6181cd45446a5821ec",
+            "questionId": 625
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC8",
+            "questionTitle": "二叉树中和为某一值的路径(二)",
+            "questionUUid": "b736e784e3e34731af99065031301bca",
+            "questionId": 23276
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC9",
+            "questionTitle": "二叉树中和为某一值的路径(一)",
+            "questionUUid": "508378c0823c423baa723ce448cbfd0c",
+            "questionId": 634
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC10",
+            "questionTitle": "大数乘法",
+            "questionUUid": "c4c488d4d40d4c4e9824c3650f7d5571",
+            "questionId": 1062527
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC11",
+            "questionTitle": "将升序数组转化为平衡二叉搜索树",
+            "questionUUid": "7e5b00f94b254da599a9472fe5ab283d",
+            "questionId": 638
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC12",
+            "questionTitle": "重建二叉树",
+            "questionUUid": "8a19cbe657394eeaac2f6ea9b0f6fcf6",
+            "questionId": 23282
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC13",
+            "questionTitle": "二叉树的最大深度",
+            "questionUUid": "8a2b2bf6c19b4f23a9bdb9b233eefa73",
+            "questionId": 642
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC14",
+            "questionTitle": "按之字形顺序打印二叉树",
+            "questionUUid": "91b69814117f4e8097390d107d2efbe0",
+            "questionId": 23454
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC15",
+            "questionTitle": "求二叉树的层序遍历",
+            "questionUUid": "04a5560e43e24e9db4595865dc9c63a3",
+            "questionId": 644
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC16",
+            "questionTitle": "对称的二叉树",
+            "questionUUid": "ff05d44dfdb04e1d83bdbdab320efbcb",
+            "questionId": 23452
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC17",
+            "questionTitle": "最长回文子串",
+            "questionUUid": "b4525d1d84934cf280439aeecc36f4af",
+            "questionId": 25269
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC18",
+            "questionTitle": "顺时针旋转矩阵",
+            "questionUUid": "2e95333fbdd4451395066957e24909cc",
+            "questionId": 25283
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC19",
+            "questionTitle": "连续子数组的最大和",
+            "questionUUid": "459bd355da1549fa8a49e350bf3df484",
+            "questionId": 23259
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC20",
+            "questionTitle": "数字字符串转化成IP地址",
+            "questionUUid": "ce73540d47374dbe85b3125f57727e1e",
+            "questionId": 653
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC21",
+            "questionTitle": "链表内指定区间反转",
+            "questionUUid": "b58434e200a648c589ca2063f1faf58c",
+            "questionId": 654
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC22",
+            "questionTitle": "合并两个有序的数组",
+            "questionUUid": "89865d4375634fc484f3a24b7fe65665",
+            "questionId": 658
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC23",
+            "questionTitle": "划分链表",
+            "questionUUid": "1dc1036be38f45f19000e48abe00b12f",
+            "questionId": 660
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC24",
+            "questionTitle": "删除有序链表中重复的元素-II",
+            "questionUUid": "71cef9f8b5564579bf7ed93fbe0b2024",
+            "questionId": 663
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC25",
+            "questionTitle": "删除有序链表中重复的元素-I",
+            "questionUUid": "c087914fae584da886a0091e877f2c79",
+            "questionId": 664
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC26",
+            "questionTitle": "括号生成",
+            "questionUUid": "c9addb265cdf4cdd92c092c655d164ca",
+            "questionId": 725
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC27",
+            "questionTitle": "集合的所有子集(一)",
+            "questionUUid": "c333d551eb6243e0b4d92e37a06fbfc9",
+            "questionId": 668
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC28",
+            "questionTitle": "最小覆盖子串",
+            "questionUUid": "c466d480d20c4c7c9d322d12ca7955ac",
+            "questionId": 670
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC29",
+            "questionTitle": "二维数组中的查找",
+            "questionUUid": "abc3fe2ce8e146608e868a70efebf62e",
+            "questionId": 23256
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC30",
+            "questionTitle": "缺失的第一个正整数",
+            "questionUUid": "50ec6a5b0e4e45348544348278cdcee5",
+            "questionId": 2188893
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC31",
+            "questionTitle": "第一个只出现一次的字符",
+            "questionUUid": "1c82e8cf713b4bbeb2a5b31cf5b0417c",
+            "questionId": 23258
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC32",
+            "questionTitle": "求平方根",
+            "questionUUid": "09fbfb16140b40499951f55113f2166c",
+            "questionId": 677
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC33",
+            "questionTitle": "合并两个排序的链表",
+            "questionUUid": "d8b6b4358f774294a89de2a6ac4d9337",
+            "questionId": 23267
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC34",
+            "questionTitle": "不同路径的数目(一)",
+            "questionUUid": "166eaff8439d4cd898e3ba933fbc6358",
+            "questionId": 685
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC35",
+            "questionTitle": "编辑距离(二)",
+            "questionUUid": "05fed41805ae4394ab6607d0d745c8e4",
+            "questionId": 1001918
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC36",
+            "questionTitle": "在两个长度相等的排序数组中找到上中位数",
+            "questionUUid": "6fbe70f3a51d44fa9395cfc49694404f",
+            "questionId": 1008512
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC37",
+            "questionTitle": "合并区间",
+            "questionUUid": "69f4e5b7ad284a478777cb2a17fb5e6a",
+            "questionId": 691
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC38",
+            "questionTitle": "螺旋矩阵",
+            "questionUUid": "7edf70f2d29c4b599693dc3aaeea1d31",
+            "questionId": 693
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC39",
+            "questionTitle": "N皇后问题",
+            "questionUUid": "c76408782512486d91eea181107293b6",
+            "questionId": 1008753
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC40",
+            "questionTitle": "链表相加(二)",
+            "questionUUid": "c56f6c70fb3f4849bc56e33ff2a50b6b",
+            "questionId": 1008772
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC41",
+            "questionTitle": "最长无重复子数组",
+            "questionUUid": "b56799ebfd684fb394bd315e89324fb4",
+            "questionId": 1008889
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC42",
+            "questionTitle": "有重复项数字的全排列",
+            "questionUUid": "a43a2b986ef34843ac4fdd9159b69863",
+            "questionId": 700
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC43",
+            "questionTitle": "没有重复项数字的全排列",
+            "questionUUid": "4bcf3081067a4d028f95acee3ddcd2b1",
+            "questionId": 701
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC44",
+            "questionTitle": "通配符匹配",
+            "questionUUid": "e96f1a44d4e44d9ab6289ee080099322",
+            "questionId": 703
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC45",
+            "questionTitle": "实现二叉树先序，中序和后序遍历",
+            "questionUUid": "a9fec6c46a684ad5a3abd4e365a9d362",
+            "questionId": 1008937
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC46",
+            "questionTitle": "加起来和为目标值的组合(二)",
+            "questionUUid": "75e6cd5b85ab41c6a7c43359a74e869a",
+            "questionId": 707
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC47",
+            "questionTitle": "数独",
+            "questionUUid": "5e6c424b82224b85b64f28fd85761280",
+            "questionId": 710
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC48",
+            "questionTitle": "在旋转过的有序数组中寻找目标值",
+            "questionUUid": "87c0e7abcbda41e7963660fa7d020995",
+            "questionId": 1648549
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC49",
+            "questionTitle": "最长的括号子串",
+            "questionUUid": "45fd68024a4c4e97a8d6c45fc61dc6ad",
+            "questionId": 715
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC50",
+            "questionTitle": "链表中的节点每k个一组翻转",
+            "questionUUid": "b49c3dc907814e9bbfa8437c251b028e",
+            "questionId": 722
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC51",
+            "questionTitle": "合并k个已排序的链表",
+            "questionUUid": "65cfde9e5b9b4cf2b6bafa5f3ef33fa6",
+            "questionId": 724
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC52",
+            "questionTitle": "有效括号序列",
+            "questionUUid": "37548e94a270412c8b9fb85643c8ccc2",
+            "questionId": 726
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC53",
+            "questionTitle": "删除链表的倒数第n个节点",
+            "questionUUid": "f95dcdafbde44b22a6d741baf71653f6",
+            "questionId": 727
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC54",
+            "questionTitle": "三数之和",
+            "questionUUid": "345e2ed5f81d4017bbb8cc6055b0b711",
+            "questionId": 731
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC55",
+            "questionTitle": "最长公共前缀",
+            "questionUUid": "28eb3175488f4434a4a6207f6f484f47",
+            "questionId": 732
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC56",
+            "questionTitle": "回文数字",
+            "questionUUid": "35b8166c135448c5a5ba2cff8d430c32",
+            "questionId": 737
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC57",
+            "questionTitle": "反转数字",
+            "questionUUid": "1a3de8b83d12437aa05694b90e02f47a",
+            "questionId": 739
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC58",
+            "questionTitle": "找到搜索二叉树中两个错误的节点",
+            "questionUUid": "4582efa5ffe949cc80c136eeb78795d6",
+            "questionId": 1008970
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC59",
+            "questionTitle": "矩阵的最小路径和",
+            "questionUUid": "7d21b6be4c6b429bb92d219341c4f8bb",
+            "questionId": 1009012
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC60",
+            "questionTitle": "判断一棵二叉树是否为搜索二叉树和完全二叉树",
+            "questionUUid": "f31fc6d3caf24e7f8b4deb5cd9b5fa97",
+            "questionId": 1008975
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC61",
+            "questionTitle": "两数之和",
+            "questionUUid": "20ef0972485e41019e39543e8e895b7f",
+            "questionId": 745
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC62",
+            "questionTitle": "判断是不是平衡二叉树",
+            "questionUUid": "8b3b95850edb4115918ecebdf1b4d222",
+            "questionId": 23250
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC63",
+            "questionTitle": "扑克牌顺子",
+            "questionUUid": "762836f4d43d43ca9deb273b3de8e1f4",
+            "questionId": 23252
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC64",
+            "questionTitle": "二叉搜索树与双向链表",
+            "questionUUid": "947f6eb80d944a84850b0538bf0ec3a5",
+            "questionId": 23253
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "NC65",
+            "questionTitle": "斐波那契数列",
+            "questionUUid": "c6c7742f5ba7442aada113136ddea0c3",
+            "questionId": 23255
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC66",
+            "questionTitle": "两个链表的第一个公共结点",
+            "questionUUid": "6ab1d9a29e88450685099d45c9e31e46",
+            "questionId": 23257
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC67",
+            "questionTitle": "汉诺塔问题",
+            "questionUUid": "7d6cab7d435048c4b05251bf44e9f185",
+            "questionId": 24976
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC68",
+            "questionTitle": "跳台阶",
+            "questionUUid": "8c82a5b80378478f9484d87d1c5f12a4",
+            "questionId": 23261
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC69",
+            "questionTitle": "链表中倒数最后k个结点",
+            "questionUUid": "886370fe658f41b498d40fb34ae76ff9",
+            "questionId": 1377477
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC70",
+            "questionTitle": "单链表的排序",
+            "questionUUid": "f23604257af94d939848729b1a5cda08",
+            "questionId": 1008897
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC71",
+            "questionTitle": "旋转数组的最小数字",
+            "questionUUid": "9f3231a991af4f55b95579b44b7a01ba",
+            "questionId": 23269
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC72",
+            "questionTitle": "二叉树的镜像",
+            "questionUUid": "a9d0ecbacef9410ca97463e4a5c83be7",
+            "questionId": 1374963
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC73",
+            "questionTitle": "数组中出现次数超过一半的数字",
+            "questionUUid": "e8a1b01a2df14cb2b228b30ee6a92163",
+            "questionId": 23271
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC74",
+            "questionTitle": "数字在升序数组中出现的次数",
+            "questionUUid": "70610bf967994b22bb1c26f9ae901fa2",
+            "questionId": 23274
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC75",
+            "questionTitle": "数组中只出现一次的两个数字",
+            "questionUUid": "389fc1c3d3be4479a154f63f495abff8",
+            "questionId": 1375231
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC76",
+            "questionTitle": "用两个栈实现队列",
+            "questionUUid": "54275ddae22f475981afa2244dd448c6",
+            "questionId": 23281
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC77",
+            "questionTitle": "调整数组顺序使奇数位于偶数前面(一)",
+            "questionUUid": "ef1f53ef31ca408cada5093c8780f44b",
+            "questionId": 1374930
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC78",
+            "questionTitle": "反转链表",
+            "questionUUid": "75e878df47f24fdc9dc3e400ec6058ca",
+            "questionId": 23286
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC79",
+            "questionTitle": "丑数",
+            "questionUUid": "6aa9e04fc3794f68acf8778237ba065b",
+            "questionId": 23296
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC80",
+            "questionTitle": "把二叉树打印成多行",
+            "questionUUid": "445c44d982d04483b04a54f298796288",
+            "questionId": 23453
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC81",
+            "questionTitle": "二叉搜索树的第k个节点",
+            "questionUUid": "57aa0bab91884a10b5136ca2c087f8ff",
+            "questionId": 2305268
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC82",
+            "questionTitle": "滑动窗口的最大值",
+            "questionUUid": "1624bc35a45c42c0bc17d17fa0cba788",
+            "questionId": 23458
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC83",
+            "questionTitle": "连续子数组的最大乘积",
+            "questionUUid": "abbec6a3779940aab2cc564b22d36859",
+            "questionId": 2368171
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC84",
+            "questionTitle": "完全二叉树结点数",
+            "questionUUid": "512688d2ecf54414826f52df4e4b5693",
+            "questionId": 24591
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC85",
+            "questionTitle": "拼接所有的字符串产生字典序最小的字符串",
+            "questionUUid": "f1f6a1a1b6f6409b944f869dc8fd3381",
+            "questionId": 1008888
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC86",
+            "questionTitle": "矩阵元素查找",
+            "questionUUid": "3afe6fabdb2c46ed98f06cfd9a20f2ce",
+            "questionId": 24986
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC87",
+            "questionTitle": "丢棋子问题",
+            "questionUUid": "d1418aaa147a4cb394c3c3efc4302266",
+            "questionId": 1067775
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC88",
+            "questionTitle": "寻找第K大",
+            "questionUUid": "e016ad9b7f0b45048c58a9f27ba618bf",
+            "questionId": 44581
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC89",
+            "questionTitle": "字符串变形",
+            "questionUUid": "c3120c1c1bc44ad986259c0cf0f0b80e",
+            "questionId": 44664
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC90",
+            "questionTitle": "包含min函数的栈",
+            "questionUUid": "4c776177d2c04c2494f2555c9fcc1e49",
+            "questionId": 23268
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC91",
+            "questionTitle": "最长上升子序列(三)",
+            "questionUUid": "9cf027bf54714ad889d4f30ff0ae5481",
+            "questionId": 990861
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC92",
+            "questionTitle": "最长公共子序列(二)",
+            "questionUUid": "6d29638c85bb4ffd80c020fe244baf11",
+            "questionId": 991075
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC93",
+            "questionTitle": "设计LRU缓存结构",
+            "questionUUid": "5dfded165916435d9defb053c63f1e84",
+            "questionId": 2427094
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC94",
+            "questionTitle": "设计LFU缓存结构",
+            "questionUUid": "93aacb4a887b46d897b00823f30bfea1",
+            "questionId": 1006014
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC95",
+            "questionTitle": "数组中的最长连续子序列",
+            "questionUUid": "eac1c953170243338f941959146ac4bf",
+            "questionId": 1008752
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC96",
+            "questionTitle": "判断一个链表是否为回文结构",
+            "questionUUid": "3fed228444e740c8be66232ce8b87c2f",
+            "questionId": 1008769
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC97",
+            "questionTitle": "字符串出现次数的TopK问题",
+            "questionUUid": "fd711bdfa0e840b381d7e1b82183b3ee",
+            "questionId": 1008514
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC98",
+            "questionTitle": "判断t1树中是否有与t2树完全相同的子树",
+            "questionUUid": "4eaccec5ee8f4fe8a4309463b807a542",
+            "questionId": 1008972
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC99",
+            "questionTitle": "多叉树的直径",
+            "questionUUid": "a77b4f3d84bf4a7891519ffee9376df3",
+            "questionId": 1024159
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC100",
+            "questionTitle": "把字符串转换成整数(atoi)",
+            "questionUUid": "d11471c3bf2d40f38b66bb12785df47f",
+            "questionId": 2283174
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC101",
+            "questionTitle": "压缩字符串(一)",
+            "questionUUid": "c43a0d72d29941c1b65c857d8ac9047e",
+            "questionId": 2049875
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC102",
+            "questionTitle": "在二叉树中找到两个节点的最近公共祖先",
+            "questionUUid": "e0cc33a83afe4530bcec46eba3325116",
+            "questionId": 1024325
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "NC103",
+            "questionTitle": "反转字符串",
+            "questionUUid": "c3a6afee325e472386a1c4eb1ef987f3",
+            "questionId": 1024337
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC104",
+            "questionTitle": "比较版本号",
+            "questionUUid": "2b317e02f14247a49ffdbdba315459e7",
+            "questionId": 1024572
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC105",
+            "questionTitle": "二分查找-II",
+            "questionUUid": "4f470d1d3b734f8aaf2afb014185b395",
+            "questionId": 1393224
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC106",
+            "questionTitle": "三个数的最大乘积",
+            "questionUUid": "8ae05c2913fe438b8b14f3968f64fc0b",
+            "questionId": 1024679
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC107",
+            "questionTitle": "寻找峰值",
+            "questionUUid": "fcf87540c4f347bcb4cf720b5b350c76",
+            "questionId": 2227748
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC108",
+            "questionTitle": "最大正方形",
+            "questionUUid": "0058c4092cec44c2975e38223f10470e",
+            "questionId": 1024683
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC109",
+            "questionTitle": "岛屿数量",
+            "questionUUid": "0c9664d1554e466aa107d899418e814e",
+            "questionId": 1024684
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC110",
+            "questionTitle": "旋转数组",
+            "questionUUid": "e19927a8fd5d477794dac67096862042",
+            "questionId": 1024689
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC111",
+            "questionTitle": "最大数",
+            "questionUUid": "fc897457408f4bbe9d3f87588f497729",
+            "questionId": 1024690
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC112",
+            "questionTitle": "进制转换",
+            "questionUUid": "2cc32b88fff94d7e8fd458b8c7b25ec1",
+            "questionId": 1024723
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC113",
+            "questionTitle": "验证IP地址",
+            "questionUUid": "55fb3c68d08d46119f76ae2df7566880",
+            "questionId": 1024725
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC114",
+            "questionTitle": "旋转字符串",
+            "questionUUid": "80b6bb8797644c83bc50ac761b72981c",
+            "questionId": 1024728
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC115",
+            "questionTitle": "栈和排序",
+            "questionUUid": "95cb356556cf430f912e7bdf1bc2ec8f",
+            "questionId": 1024794
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC116",
+            "questionTitle": "把数字翻译成字符串",
+            "questionUUid": "046a55e6cd274cffb88fc32dba695668",
+            "questionId": 1024831
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC117",
+            "questionTitle": "合并二叉树",
+            "questionUUid": "7298353c24cc42e3bd5f0e0bd3d1d759",
+            "questionId": 1025038
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC118",
+            "questionTitle": "数组中的逆序对",
+            "questionUUid": "96bd6684e04a44eb80e6a68efc0ec6c5",
+            "questionId": 23260
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC119",
+            "questionTitle": "最小的K个数",
+            "questionUUid": "6a296eb82cf844ca8539b57c23e6e9bf",
+            "questionId": 23263
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC120",
+            "questionTitle": "二进制中1的个数",
+            "questionUUid": "8ee967e43c2c4ec193b040ea7fbb10b8",
+            "questionId": 23273
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC121",
+            "questionTitle": "字符串的排列",
+            "questionUUid": "fe6b651b66ae47d7acce78ffdd9a96c7",
+            "questionId": 23291
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC122",
+            "questionTitle": "正则表达式匹配",
+            "questionUUid": "28970c15befb4ff3a264189087b99ad4",
+            "questionId": 1375406
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC123",
+            "questionTitle": "序列化二叉树",
+            "questionUUid": "cf7e25aa97c04cc1a68c8f040e71fb84",
+            "questionId": 23455
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC124",
+            "questionTitle": "字典树的实现",
+            "questionUUid": "a55a584bc0ca4a83a272680174be113b",
+            "questionId": 1008898
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC125",
+            "questionTitle": "和为K的连续子数组",
+            "questionUUid": "704c8388a82e42e58b7f5751ec943a11",
+            "questionId": 988981
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC126",
+            "questionTitle": "兑换零钱(一)",
+            "questionUUid": "3911a20b3f8743058214ceaa099eeb45",
+            "questionId": 988994
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC127",
+            "questionTitle": "最长公共子串",
+            "questionUUid": "f33f5adc55f444baa0e0ca87ad8a6aac",
+            "questionId": 991150
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC128",
+            "questionTitle": "接雨水问题",
+            "questionUUid": "31c1aed01b394f0b8b7734de0324e00f",
+            "questionId": 1002045
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC129",
+            "questionTitle": "阶乘末尾0的数量",
+            "questionUUid": "aa03dff18376454c9d2e359163bf44b8",
+            "questionId": 1002083
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC130",
+            "questionTitle": "分糖果问题",
+            "questionUUid": "76039109dd0b47e994c08d8319faa352",
+            "questionId": 1008104
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC131",
+            "questionTitle": "数据流中的中位数",
+            "questionUUid": "9be0172896bd43948f8a32fb954e1be1",
+            "questionId": 23457
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC132",
+            "questionTitle": "环形链表的约瑟夫问题",
+            "questionUUid": "41c399fdb6004b31a6cbb047c641ed8a",
+            "questionId": 1008767
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC133",
+            "questionTitle": "链表的奇偶重排",
+            "questionUUid": "02bf49ea45cd486daa031614f9bd6fc3",
+            "questionId": 1073463
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC134",
+            "questionTitle": "买卖股票的最好时机(二)",
+            "questionUUid": "9e5e3c2603064829b0a0bbfca10594e9",
+            "questionId": 1073471
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC135",
+            "questionTitle": "买卖股票的最好时机(三)",
+            "questionUUid": "4892d3ff304a4880b7a89ba01f48daf9",
+            "questionId": 1073487
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC136",
+            "questionTitle": "输出二叉树的右视图",
+            "questionUUid": "c9480213597e45f4807880c763ddd5f0",
+            "questionId": 1073834
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC137",
+            "questionTitle": "表达式求值",
+            "questionUUid": "c215ba61c8b1443b996351df929dc4d4",
+            "questionId": 1076787
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC138",
+            "questionTitle": "矩阵最长递增路径",
+            "questionUUid": "7a71a88cdf294ce6bdf54c899be967a2",
+            "questionId": 1076860
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC139",
+            "questionTitle": "孩子们的游戏(圆圈中最后剩下的数)",
+            "questionUUid": "f78a359491e64a50bce2d89cff857eb6",
+            "questionId": 23265
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC140",
+            "questionTitle": "排序",
+            "questionUUid": "2baf799ea0594abd974d37139de27896",
+            "questionId": 1089529
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "NC141",
+            "questionTitle": "判断是否为回文字符串",
+            "questionUUid": "e297fdd8e9f543059b0b5f05f3a7f3b2",
+            "questionId": 1089616
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC142",
+            "questionTitle": "最长重复子串",
+            "questionUUid": "4fe306a84f084c249e4afad5edf889cc",
+            "questionId": 1089633
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC143",
+            "questionTitle": "矩阵乘法",
+            "questionUUid": "bf358c3ac73e491585943bac94e309b0",
+            "questionId": 1089672
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC144",
+            "questionTitle": "懂二进制",
+            "questionUUid": "120e406db3fd46f09d55d59093f13dd8",
+            "questionId": 2418026
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC145",
+            "questionTitle": "01背包",
+            "questionUUid": "2820ea076d144b30806e72de5e5d4bbf",
+            "questionId": 1266316
+        },
+        {
+            "difficulty": 5,
+            "questionNo": "NC146",
+            "questionTitle": "循环右移二叉树",
+            "questionUUid": "dd954e299e534af3986a73f98dbdd8a7",
+            "questionId": 2213985
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC147",
+            "questionTitle": "主持人调度（二）",
+            "questionUUid": "4edf6e6d01554870a12f218c94e8a299",
+            "questionId": 1267319
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC148",
+            "questionTitle": "几步可以从头跳到尾",
+            "questionUUid": "de62bcee9f9a4881ac80cce6da42b135",
+            "questionId": 1276328
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC149",
+            "questionTitle": "kmp算法",
+            "questionUUid": "bb1615c381cc4237919d1aa448083bcc",
+            "questionId": 1276811
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC150",
+            "questionTitle": "二叉树的个数",
+            "questionUUid": "78bdfba0a5c1488a9aa8ca067ce508bd",
+            "questionId": 1279564
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "NC151",
+            "questionTitle": "最大公约数",
+            "questionUUid": "cf4091ca75ca47958182dae85369c82c",
+            "questionId": 1291429
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC152",
+            "questionTitle": "数的划分",
+            "questionUUid": "24c2045f2cce40a5bf410a369a001da8",
+            "questionId": 1291516
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC153",
+            "questionTitle": "信封嵌套问题",
+            "questionUUid": "9bf77b5b018d4d24951c9a7edb40408f",
+            "questionId": 1291518
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC154",
+            "questionTitle": "最长回文子序列",
+            "questionUUid": "c7fc893654b44324b6763dea095ceaaf",
+            "questionId": 1291544
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC155",
+            "questionTitle": "最长严格上升子数组(一)",
+            "questionUUid": "78889543865f4aa380fa69e641ad9889",
+            "questionId": 2211611
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC156",
+            "questionTitle": "数组中只出现一次的数（其它数出现k次）",
+            "questionUUid": "5d3d74c3bf7f4e368e03096bb8857871",
+            "questionId": 1291611
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC157",
+            "questionTitle": "单调栈",
+            "questionUUid": "ae25fb47d34144a08a0f8ff67e8e7fb5",
+            "questionId": 1291676
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC158",
+            "questionTitle": "单源最短路",
+            "questionUUid": "9f15b34a2a944a7798a5340ff0dba8b7",
+            "questionId": 1291871
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC159",
+            "questionTitle": "最小生成树",
+            "questionUUid": "735a34ff4672498b95660f43b7fcd628",
+            "questionId": 1292435
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC160",
+            "questionTitle": "二分查找-I",
+            "questionUUid": "d3df40bd23594118b57554129cadf47b",
+            "questionId": 1499549
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC161",
+            "questionTitle": "二叉树的中序遍历",
+            "questionUUid": "0bf071c135e64ee2a027783b80bf781d",
+            "questionId": 1512964
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC162",
+            "questionTitle": "二叉树中和为某一值的路径(三)",
+            "questionUUid": "965fef32cae14a17a8e86c76ffe3131f",
+            "questionId": 2277604
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC163",
+            "questionTitle": "最长上升子序列(一)",
+            "questionUUid": "5164f38b67f846fb8699e9352695cd2f",
+            "questionId": 2281434
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC164",
+            "questionTitle": "最长上升子序列(二)",
+            "questionUUid": "4af96fa010c44638a7e112abf65f7237",
+            "questionId": 2281421
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC165",
+            "questionTitle": "最长公共子序列(一)",
+            "questionUUid": "8cb175b803374e348a614e34b80ae191",
+            "questionId": 2281254
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC166",
+            "questionTitle": "连续子数组的最大和(二)",
+            "questionUUid": "11662ff51a714bbd8de809a89c481e21",
+            "questionId": 2282583
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC167",
+            "questionTitle": "买卖股票的最好时机(四)",
+            "questionUUid": "1c583d416d504b80821fbe4cc20404f3",
+            "questionId": 2284491
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC168",
+            "questionTitle": "盛水最多的容器",
+            "questionUUid": "3d8d6a8e516e4633a2244d2934e5aa47",
+            "questionId": 2284579
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC169",
+            "questionTitle": "修剪叶子",
+            "questionUUid": "39b559fb84864bde93eccd6e87312650",
+            "questionId": 2214037
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC170",
+            "questionTitle": "最长不含重复字符的子字符串",
+            "questionUUid": "48d2ff79b8564c40a50fa79f9d5fa9c7",
+            "questionId": 2276769
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC171",
+            "questionTitle": "直方图内最大矩形",
+            "questionUUid": "bfaac4eebe5947af80912d1bcfcf2baa",
+            "questionId": 2285011
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC172",
+            "questionTitle": "二进制取反",
+            "questionUUid": "4ca47baf4d5f4417afc0f99d6efc7d42",
+            "questionId": 2213986
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC173",
+            "questionTitle": "填充数组",
+            "questionUUid": "3e34d9ed0bbc4db68b6fbca20a62926d",
+            "questionId": 2214035
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC174",
+            "questionTitle": "最大值",
+            "questionUUid": "c0a95c1c30e94dc190e6acc42cb06930",
+            "questionId": 2214036
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC175",
+            "questionTitle": "合法的括号字符串",
+            "questionUUid": "eceb50e041ec40bd93240b8b3b62d221",
+            "questionId": 2319014
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC176",
+            "questionTitle": "打家劫舍(一)",
+            "questionUUid": "c5fbf7325fbd4c0ea3d0c3ea6bc6cc79",
+            "questionId": 2285793
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC177",
+            "questionTitle": "打家劫舍(二)",
+            "questionUUid": "a5c127769dd74a63ada7bff37d9c5815",
+            "questionId": 2285837
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC178",
+            "questionTitle": "打家劫舍(三)",
+            "questionUUid": "82b6dce6a7634419b272ee4397e26d89",
+            "questionId": 2285956
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC179",
+            "questionTitle": "长度为 K 的重复字符子串",
+            "questionUUid": "eced9a8a4b6c42b79c95ae5625e1d5fd",
+            "questionId": 2119508
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC180",
+            "questionTitle": "给数组加一",
+            "questionUUid": "e20d6e18e75941b6a5b7b33ffa7b8d4d",
+            "questionId": 2286011
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC181",
+            "questionTitle": "单词拆分(一)",
+            "questionUUid": "c0d32c1ce5744472a01b2351a2c2767f",
+            "questionId": 2286209
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC182",
+            "questionTitle": "单词拆分(二)",
+            "questionUUid": "bb40e0aae84a4491a35f93b322516cb5",
+            "questionId": 2287507
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC183",
+            "questionTitle": "最长公共子数组",
+            "questionUUid": "6032826d387c4a10ad3690cce5fdb015",
+            "questionId": 2287834
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC184",
+            "questionTitle": "判断是不是二叉搜索树",
+            "questionUUid": "a69242b39baf45dea217815c7dedb52b",
+            "questionId": 2288088
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC185",
+            "questionTitle": "岛屿的最大面积",
+            "questionUUid": "5568943d3a08403f932a5e54ec3ece71",
+            "questionId": 2288141
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC186",
+            "questionTitle": "两两交换链表的节点",
+            "questionUUid": "71f95c23810349f782a1aa6c9bd714b4",
+            "questionId": 2288206
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC187",
+            "questionTitle": "压缩字符串(二)",
+            "questionUUid": "2724df81a7d94b70932d96b759848f0a",
+            "questionId": 2288772
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC188",
+            "questionTitle": "二进制求和",
+            "questionUUid": "1620262056c24c0e96de32fb261703d0",
+            "questionId": 2288222
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC189",
+            "questionTitle": "给单链表加一",
+            "questionUUid": "a2f1105d2ac5466e9ba8fd61310ba6d1",
+            "questionId": 2288968
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC190",
+            "questionTitle": "字符串的全部子序列",
+            "questionUUid": "92e6247998294f2c933906fdedbc6e6a",
+            "questionId": 2289754
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC191",
+            "questionTitle": "二叉搜索树的最近公共祖先",
+            "questionUUid": "d9820119321945f588ed6a26f0a6991f",
+            "questionId": 2290592
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC192",
+            "questionTitle": "二叉树的后序遍历",
+            "questionUUid": "1291064f4d5d4bdeaefbf0dd47d78541",
+            "questionId": 2291301
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC193",
+            "questionTitle": "二叉树的前序遍历",
+            "questionUUid": "5e2135f4d2b14eb8a5b06fab4c938635",
+            "questionId": 2291302
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC194",
+            "questionTitle": "下一个排列",
+            "questionUUid": "50b0b87e50be4944b34cb0f2ce618197",
+            "questionId": 2291318
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC195",
+            "questionTitle": "二叉树的直径",
+            "questionUUid": "15f977cedc5a4ffa8f03a3433d18650d",
+            "questionId": 2294623
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC196",
+            "questionTitle": "编辑距离(一)",
+            "questionUUid": "6a1483b5be1547b1acd7940f867be0da",
+            "questionId": 2294660
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC197",
+            "questionTitle": "跳跃游戏(一)",
+            "questionUUid": "23407eccb76447038d7c0f568370c1bd",
+            "questionId": 2298831
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC198",
+            "questionTitle": "判断是不是完全二叉树",
+            "questionUUid": "8daa4dff9e36409abba2adbe413d6fae",
+            "questionId": 2299105
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC199",
+            "questionTitle": "字符串解码",
+            "questionUUid": "4e008fd863bb4681b54fb438bb859b92",
+            "questionId": 2299113
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC200",
+            "questionTitle": "移动 0",
+            "questionUUid": "102586387caa4afcbad6f96affce9780",
+            "questionId": 2299316
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC201",
+            "questionTitle": "对角线遍历矩阵",
+            "questionUUid": "04b591e3537046c68bf398c18b84cb27",
+            "questionId": 2299358
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC202",
+            "questionTitle": "长度最小的连续子数组",
+            "questionUUid": "10dd5f8c5d984aa3bd69788d86aaef23",
+            "questionId": 2299405
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC203",
+            "questionTitle": "兑换零钱(二)",
+            "questionUUid": "521cead04d1442899767578c3aa395f0",
+            "questionId": 2299488
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC204",
+            "questionTitle": "二叉树的最大宽度",
+            "questionUUid": "0975d62a307549cea32f353f354a7377",
+            "questionId": 2299531
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC205",
+            "questionTitle": "跳跃游戏(三)",
+            "questionUUid": "14abdfaf0ec4419cbc722decc709938b",
+            "questionId": 2299671
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC206",
+            "questionTitle": "跳跃游戏(二)",
+            "questionUUid": "5a86e198949d4a44a7e7b2e3e617e7fe",
+            "questionId": 2300012
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC207",
+            "questionTitle": "排序奇升偶降链表",
+            "questionUUid": "3a188e9c06ce4844b031713b82784a2a",
+            "questionId": 2300888
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC208",
+            "questionTitle": "每日温度",
+            "questionUUid": "1f54e163e6944cc7b8759cc09e9c78d8",
+            "questionId": 2300935
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC209",
+            "questionTitle": "最短无序连续子数组",
+            "questionUUid": "d17f4abd1d114617b51e951027be312e",
+            "questionId": 2301215
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC210",
+            "questionTitle": "螺旋矩阵(二)",
+            "questionUUid": "2c8078a728834e81a046fdefdea049aa",
+            "questionId": 2299655
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC211",
+            "questionTitle": "旋转链表",
+            "questionUUid": "1ad00d19a5fa4b8dae65610af8bdb0ed",
+            "questionId": 2300899
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC212",
+            "questionTitle": "颜色分类",
+            "questionUUid": "52e04ddb7b5640a8869c2d3da2ad3344",
+            "questionId": 2301104
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC213",
+            "questionTitle": "除自身以外数组的乘积",
+            "questionUUid": "0786aa81c1c64c2a990e393fac811b45",
+            "questionId": 2301165
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC214",
+            "questionTitle": "分割等和子集",
+            "questionUUid": "0b18d3e11c8f4c5b833d2a9a43fa7772",
+            "questionId": 2301233
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC215",
+            "questionTitle": "将二叉搜索树改为累加树",
+            "questionUUid": "19bff16ca0d64d6da38ed24fd2903ce9",
+            "questionId": 2301346
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC216",
+            "questionTitle": "逆波兰表达式求值",
+            "questionUUid": "885c1db3e39040cbae5cdf59fb0e9382",
+            "questionId": 2301465
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC217",
+            "questionTitle": "给表达式添加运算符",
+            "questionUUid": "fdaee292bdaf4a7eb686c8ce72b2f3e1",
+            "questionId": 2301643
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC218",
+            "questionTitle": "检测循环依赖",
+            "questionUUid": "8dc02ad98553432a90affc3a0484910b",
+            "questionId": 2303450
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC219",
+            "questionTitle": "移掉 K 位数字",
+            "questionUUid": "0fe685c8272d40f1b9785fedd2499c1c",
+            "questionId": 2303454
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC220",
+            "questionTitle": "重复的DNA序列",
+            "questionUUid": "fe9099e5308042a8af2f7aabdb3719fe",
+            "questionId": 2304077
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC221",
+            "questionTitle": "集合的所有子集(二)",
+            "questionUUid": "a3dfd4bc8ae74fad9bc65d5ced7ae813",
+            "questionId": 2287917
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC222",
+            "questionTitle": "插入区间",
+            "questionUUid": "1d784b5472ab4dde88ea2331d16ee909",
+            "questionId": 2304809
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC223",
+            "questionTitle": "从中序与后序遍历序列构造二叉树",
+            "questionUUid": "ab8dde7f01f3440fbbb7993d2411a46b",
+            "questionId": 2312538
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC224",
+            "questionTitle": "从下到上打印二叉树",
+            "questionUUid": "ed982e032ff04d6a857b4cb4e6369d04",
+            "questionId": 2312562
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC225",
+            "questionTitle": "三角形最小路径和",
+            "questionUUid": "c9d44b73dc7c4dbfa4272224b1f9b42c",
+            "questionId": 2312583
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC226",
+            "questionTitle": "被围绕的区域",
+            "questionUUid": "3946670643fe4ec2aedcc2be45aed1a9",
+            "questionId": 2312614
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC227",
+            "questionTitle": "只出现一次的数字(二)",
+            "questionUUid": "85cb47fc0c6c483fab7e5cefab54d9e5",
+            "questionId": 2313031
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC228",
+            "questionTitle": "判断子序列",
+            "questionUUid": "39be6c2d0a9b4c30a7b04053d5960a84",
+            "questionId": 2313061
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC229",
+            "questionTitle": "判断字符是否唯一",
+            "questionUUid": "fb08c63e2c4f4f7dbf41086e46044211",
+            "questionId": 2313682
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC230",
+            "questionTitle": "Nim游戏",
+            "questionUUid": "bb574ea90ed2495680fef88d59238231",
+            "questionId": 2313687
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC231",
+            "questionTitle": "只出现一次的数字",
+            "questionUUid": "c04bd25f0396471b90dfc30d96b9109b",
+            "questionId": 2314050
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC232",
+            "questionTitle": "加起来和为目标值的组合(三)",
+            "questionUUid": "8c297161a58740c5b92b3e184dd1756e",
+            "questionId": 2294739
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC233",
+            "questionTitle": "加起来和为目标值的组合(四)",
+            "questionUUid": "7a64b6a6cf2e4e88a0a73af0a967a82b",
+            "questionId": 2294798
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC234",
+            "questionTitle": "二叉树的最小深度",
+            "questionUUid": "6a7f40d7696d46f79c74c61179993be6",
+            "questionId": 2314063
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC235",
+            "questionTitle": "加油站",
+            "questionUUid": "a013a0691a0343aeb262ca1450d2fe4e",
+            "questionId": 2312687
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC236",
+            "questionTitle": "最大差值",
+            "questionUUid": "a01abbdc52ba4d5f8777fb5dae91b204",
+            "questionId": 2314739
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC237",
+            "questionTitle": "最大矩形",
+            "questionUUid": "5720efc1bdff4ca3a7dad37ca012cb60",
+            "questionId": 2314756
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC238",
+            "questionTitle": "加起来和为目标值的组合",
+            "questionUUid": "172e6420abf84c11840ed6b36a48f8cd",
+            "questionId": 2314954
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC239",
+            "questionTitle": "棋子翻转",
+            "questionUUid": "a8c89dc768c84ec29cbf9ca065e3f6b4",
+            "questionId": 2315634
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC240",
+            "questionTitle": "计算器(一)",
+            "questionUUid": "9b1fca7407954ba5a6f217e7c3537fed",
+            "questionId": 2298986
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC241",
+            "questionTitle": "计算器(二)",
+            "questionUUid": "a9c170bfaf7349e3acb475d786ab1c7d",
+            "questionId": 2298991
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC242",
+            "questionTitle": "单词搜索",
+            "questionUUid": "987f2981769048abaf6180ed63266bb2",
+            "questionId": 2315888
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC243",
+            "questionTitle": "目标和",
+            "questionUUid": "7fc06e2162f048658252fac542fcb1e8",
+            "questionId": 2317375
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC244",
+            "questionTitle": "对链表进行插入排序",
+            "questionUUid": "cc6c61215dfb446f8eccea3663e3d8db",
+            "questionId": 2319180
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC245",
+            "questionTitle": "杨辉三角(一)",
+            "questionUUid": "4385fa1c390e49f69fcf77ecffee7164",
+            "questionId": 2319192
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC246",
+            "questionTitle": "杨辉三角(二)",
+            "questionUUid": "486a9408fe2d4912843795c25d43acc2",
+            "questionId": 2319578
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC247",
+            "questionTitle": "最接近的三数之和",
+            "questionUUid": "f889497fd1134af5af9de60b4d13af23",
+            "questionId": 2319587
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC248",
+            "questionTitle": "左叶子之和",
+            "questionUUid": "405a9033800b403ba8b7b905bab0463d",
+            "questionId": 2319637
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC249",
+            "questionTitle": "拜访",
+            "questionUUid": "491828fc7d93459db450b344c2aaaeef",
+            "questionId": 2323703
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC250",
+            "questionTitle": "小米Git",
+            "questionUUid": "4fcd94851d9142458329fd1d3e5802a8",
+            "questionId": 2324684
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC251",
+            "questionTitle": "多数组第 K 小数",
+            "questionUUid": "41796daa4c7e4e5ab984b2c16c24a1de",
+            "questionId": 2324921
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC252",
+            "questionTitle": "多数组中位数",
+            "questionUUid": "b6bb0bce88894108bfc23e9b7b012420",
+            "questionId": 2325020
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC253",
+            "questionTitle": "旋转字符串（二）",
+            "questionUUid": "3cd3dcd714b643ec99ab9b9d100262e1",
+            "questionId": 1943896
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC254",
+            "questionTitle": "合法的三角形个数",
+            "questionUUid": "e6ee5545535445feaeb92f357644fb14",
+            "questionId": 2351588
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC255",
+            "questionTitle": "最长有效的括号字符子序列",
+            "questionUUid": "c6760389751e425c8da6243f8f3c4741",
+            "questionId": 2352375
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC256",
+            "questionTitle": "数组里面没有出现过的数字",
+            "questionUUid": "aa2a56603fb94b3395ea23ff89d37628",
+            "questionId": 2353315
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC257",
+            "questionTitle": "求1+2+3+...+n",
+            "questionUUid": "7a0da8fc483247ff8800059e12d7caf1",
+            "questionId": 23248
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC258",
+            "questionTitle": "不用加减乘除做加法",
+            "questionUUid": "59ac416b4b944300b617d4f7f111b215",
+            "questionId": 23249
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC259",
+            "questionTitle": "和为S的连续正数序列",
+            "questionUUid": "c451a3fd84b64cb19485dad758a55ebe",
+            "questionId": 23251
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC260",
+            "questionTitle": "复杂链表的复制",
+            "questionUUid": "f836b2c43afc4b35ad6adc41ec941dba",
+            "questionId": 23254
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC261",
+            "questionTitle": "跳台阶扩展问题",
+            "questionUUid": "22243d016f6b47f2a6928b4313c85387",
+            "questionId": 23262
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC262",
+            "questionTitle": "左旋转字符串",
+            "questionUUid": "12d959b108cb42b1ab72cef4d36af5ec",
+            "questionId": 23266
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC263",
+            "questionTitle": "整数中1出现的次数（从1到n整数中1出现的次数）",
+            "questionUUid": "bd7f978302044eee894445e244c7eee6",
+            "questionId": 23272
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC264",
+            "questionTitle": "数值的整数次方",
+            "questionUUid": "1a834e5e3e1a4b7ba251417554e07c00",
+            "questionId": 23277
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC265",
+            "questionTitle": "从尾到头打印链表",
+            "questionUUid": "d0267f7f55b3412ba93bd35cfa8e8035",
+            "questionId": 23278
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC266",
+            "questionTitle": "顺时针打印矩阵",
+            "questionUUid": "9b4c81a02cd34f76be2659fa0d54342a",
+            "questionId": 23279
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC267",
+            "questionTitle": "从上往下打印二叉树",
+            "questionUUid": "7fe2212963db4790b57431d9ed259701",
+            "questionId": 23280
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC268",
+            "questionTitle": "矩形覆盖",
+            "questionUUid": "72a5a919508a4251859fb2cfb987a0e6",
+            "questionId": 23283
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC269",
+            "questionTitle": "翻转单词序列",
+            "questionUUid": "3194a4f4cf814f63919d0790578d51f3",
+            "questionId": 23287
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC270",
+            "questionTitle": "把数组排成最小的数",
+            "questionUUid": "8fecd3f8ba334add803bf2a06af1b993",
+            "questionId": 23288
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC271",
+            "questionTitle": "二叉搜索树的后序遍历序列",
+            "questionUUid": "a861533d45854474ac791d90e447bafd",
+            "questionId": 23289
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC272",
+            "questionTitle": "栈的压入、弹出序列",
+            "questionUUid": "d77d11405cc7470d82554cb392585106",
+            "questionId": 23290
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC273",
+            "questionTitle": "树的子结构",
+            "questionUUid": "6e196c44c7004d15b1610b9afca8bd88",
+            "questionId": 23293
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC274",
+            "questionTitle": "二叉树的深度",
+            "questionUUid": "435fb86331474282a3499955f0a41e8b",
+            "questionId": 23294
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC275",
+            "questionTitle": "和为S的两个数字",
+            "questionUUid": "390da4f7a00f44bea7c2f3d19491311b",
+            "questionId": 23295
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC276",
+            "questionTitle": "构建乘积数组",
+            "questionUUid": "94a4d381a68b47b7a8bed86f2975db46",
+            "questionId": 23445
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC277",
+            "questionTitle": "字符流中第一个不重复的字符",
+            "questionUUid": "00de97733b8e4f97a3fb5c680ee10720",
+            "questionId": 23448
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC278",
+            "questionTitle": "删除链表中重复的结点",
+            "questionUUid": "fc533c45b73a41b0b44ccba763f866ef",
+            "questionId": 23450
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC279",
+            "questionTitle": "二叉树的下一个结点",
+            "questionUUid": "9023a0c988684a53960365b889ceaf5e",
+            "questionId": 23451
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC280",
+            "questionTitle": "机器人的运动范围",
+            "questionUUid": "6e5207314b5241fb83f2329e89fdecc8",
+            "questionId": 23460
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC281",
+            "questionTitle": "剪绳子",
+            "questionUUid": "57d85990ba5b440ab888fc72b0751bf8",
+            "questionId": 587690
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC282",
+            "questionTitle": "替换空格",
+            "questionUUid": "0e26e5551f2b489b9f58bc83aa4b6c68",
+            "questionId": 1374738
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC283",
+            "questionTitle": "数组中重复的数字",
+            "questionUUid": "6fe361ede7e54db1b84adc81d09d8524",
+            "questionId": 1375279
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC284",
+            "questionTitle": "表示数值的字符串",
+            "questionUUid": "e69148f8528c4039ad89bb2546fd4ff8",
+            "questionId": 1375424
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC285",
+            "questionTitle": "矩阵中的路径",
+            "questionUUid": "2a49359695a544b8939c77358d29b7e6",
+            "questionId": 1517966
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC286",
+            "questionTitle": "调整数组顺序使奇数位于偶数前面(二)",
+            "questionUUid": "0c1b486d987b4269b398fee374584fc8",
+            "questionId": 2221866
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC287",
+            "questionTitle": "剪绳子（进阶版）",
+            "questionUUid": "106f666170554379ab1974e5a601e741",
+            "questionId": 2254224
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC288",
+            "questionTitle": "打印从1到最大的n位数",
+            "questionUUid": "4436c93e568c48f6b28ff436173b997f",
+            "questionId": 2273153
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC289",
+            "questionTitle": "删除链表的节点",
+            "questionUUid": "f9f78ca89ad643c99701a7142bd59f5d",
+            "questionId": 2273171
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC290",
+            "questionTitle": "礼物的最大价值",
+            "questionUUid": "2237b401eb9347d282310fc1c3adb134",
+            "questionId": 2276652
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC291",
+            "questionTitle": "数字序列中某一位的数字",
+            "questionUUid": "29311ff7404d44e0b07077f4201418f5",
+            "questionId": 2285751
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC292",
+            "questionTitle": "最少的完全平方数",
+            "questionUUid": "51d0403bd98c425a887c26bb1816043e",
+            "questionId": 2354838
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC293",
+            "questionTitle": "无环单链表插值",
+            "questionUUid": "3ccf07c4d7374cc685be4a3883708540",
+            "questionId": 2356504
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC294",
+            "questionTitle": "字母异位词分组",
+            "questionUUid": "68bda87f91664623a4213abb00e41a5a",
+            "questionId": 2357684
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC295",
+            "questionTitle": "连续子链表最大和",
+            "questionUUid": "650b68dfa69d492d92645aecd7da9b21",
+            "questionId": 2364704
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC296",
+            "questionTitle": "最小花费爬楼梯",
+            "questionUUid": "6fe0302a058a4e4a834ee44af88435c7",
+            "questionId": 2366451
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC297",
+            "questionTitle": "删除一个二叉搜索树中的节点",
+            "questionUUid": "c1c2970c7a3e442b8e41423e88d099fb",
+            "questionId": 2369055
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC298",
+            "questionTitle": "两个队列实现栈",
+            "questionUUid": "9fc5ae0e203f4d079b68dee34818832a",
+            "questionId": 2371935
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC299",
+            "questionTitle": "简化目录路径",
+            "questionUUid": "3177bcbfd947409ba833efb5a5b4a24c",
+            "questionId": 2372062
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC300",
+            "questionTitle": "删除相邻数字的最大分数",
+            "questionUUid": "ddaaf110911a453da61e8e020df86a6c",
+            "questionId": 2362335
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC301",
+            "questionTitle": "最大数字交换",
+            "questionUUid": "ffcd59fbf5814d2e94c0e2f4a679473c",
+            "questionId": 2373041
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC302",
+            "questionTitle": "环形数组的连续子数组最大和",
+            "questionUUid": "e9f3282363844355aa51497c5410beee",
+            "questionId": 2376490
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC303",
+            "questionTitle": "龙与地下城游戏问题",
+            "questionUUid": "92eef3e994454793bb0bd16cfeecf926",
+            "questionId": 2376660
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC304",
+            "questionTitle": "最大子矩阵",
+            "questionUUid": "1d889593a08645319d8d2fc8f804630e",
+            "questionId": 2376750
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC305",
+            "questionTitle": "寻找唯一重复数",
+            "questionUUid": "8dad38b5d6514a51b543b0d9f1bfd88e",
+            "questionId": 2378112
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC306",
+            "questionTitle": "乘积为正数的最长连续子数组",
+            "questionUUid": "dfa268dea7d744768058d1a0d1fa3afe",
+            "questionId": 2378151
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC307",
+            "questionTitle": "在升序数组中查找元素的位置",
+            "questionUUid": "f2628d9f7b7d4568aebaae6556aacfe0",
+            "questionId": 2378223
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC308",
+            "questionTitle": "过河",
+            "questionUUid": "e69176faf03341829c325cbc0a5dcc1c",
+            "questionId": 2379429
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC309",
+            "questionTitle": "完全背包",
+            "questionUUid": "3ed13831e2cc4613866edee237d5a804",
+            "questionId": 2379541
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC310",
+            "questionTitle": "不同的二叉搜索树(一)",
+            "questionUUid": "6e5df579ca694d4190304da6406c4dfe",
+            "questionId": 2378323
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC311",
+            "questionTitle": "圆环回原点",
+            "questionUUid": "16409dd00ab24a408ddd0c46e49ddcf8",
+            "questionId": 2380359
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC312",
+            "questionTitle": "字母异位词的长度",
+            "questionUUid": "59426f49136349b0901cc1b70447bf4b",
+            "questionId": 2381046
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC313",
+            "questionTitle": "两个数组的交集",
+            "questionUUid": "56ea71d1f4e94de2aaec10e985874cce",
+            "questionId": 2381092
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC314",
+            "questionTitle": "体育课测验(一)",
+            "questionUUid": "1a16c1b2d2674e1fb62ce8439e867f33",
+            "questionId": 2381164
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC315",
+            "questionTitle": "相同的二叉树",
+            "questionUUid": "5a3b2cf4211249c89d6ced7987aeb775",
+            "questionId": 2382234
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC316",
+            "questionTitle": "体育课测验(二)",
+            "questionUUid": "64a4c026b2aa4411984f560deec36323",
+            "questionId": 2382473
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC317",
+            "questionTitle": "链表相加(一)",
+            "questionUUid": "521d83306d964c1188639033eb59621d",
+            "questionId": 2383952
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC318",
+            "questionTitle": "字符串的相邻字符去重",
+            "questionUUid": "8c7d55263c624faa8e48a16d92c2e90d",
+            "questionId": 2381066
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC319",
+            "questionTitle": "用rand5()实现rand7()",
+            "questionUUid": "581fb9be10d647e7bb179234b42f3f5f",
+            "questionId": 2383932
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC320",
+            "questionTitle": "装箱问题",
+            "questionUUid": "d195a735f05b46cf8f210c4ad250681c",
+            "questionId": 2383986
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC321",
+            "questionTitle": "连续数组的长度",
+            "questionUUid": "6e231c66d7864266b55395cde5bcac27",
+            "questionId": 2384775
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC322",
+            "questionTitle": "链表的中间结点",
+            "questionUUid": "d0e727d0d9fb4a9b9ff2df99f9bfdd00",
+            "questionId": 2384958
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC323",
+            "questionTitle": "括号区间匹配",
+            "questionUUid": "15a63d150f69449886ea3822d64a1121",
+            "questionId": 2384213
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC324",
+            "questionTitle": "下一个更大的数(三)",
+            "questionUUid": "475da0d4e37a481bacf9a09b5a059199",
+            "questionId": 2384974
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC325",
+            "questionTitle": "不同路径的数目(二)",
+            "questionUUid": "2bbfd075fbde4884b9da80634e1cae7c",
+            "questionId": 2385014
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC326",
+            "questionTitle": "能量项链",
+            "questionUUid": "02abd06224724b97ab856ce605a323f5",
+            "questionId": 2385210
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC327",
+            "questionTitle": "取数游戏",
+            "questionUUid": "1a2b87badb96440a8d85b29fd9c6b9b2",
+            "questionId": 2385249
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC328",
+            "questionTitle": "矩阵取数游戏",
+            "questionUUid": "413183818ce5493b9372986ddfe5df28",
+            "questionId": 2386035
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC329",
+            "questionTitle": "电话号码的字母组合",
+            "questionUUid": "2d3a1e71112546ac836700ccbd1f5936",
+            "questionId": 2387722
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC330",
+            "questionTitle": "36进制加法",
+            "questionUUid": "c5db069fd9d64e6e9cf5fd68860abcdd",
+            "questionId": 2389033
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC331",
+            "questionTitle": "重复的子字符串",
+            "questionUUid": "9b921e9554b24d2e8e617cf8b77912c3",
+            "questionId": 2389125
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC332",
+            "questionTitle": "二叉树展开为单链表",
+            "questionUUid": "421a1099535149c0828ad7a6e1ce7b40",
+            "questionId": 2389223
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC333",
+            "questionTitle": "加分二叉树",
+            "questionUUid": "de27e74a36c940b19ccb9007eda35093",
+            "questionId": 2387683
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC334",
+            "questionTitle": "字典序第K小",
+            "questionUUid": "670c2bda374241d7ae06ade60de33e8b",
+            "questionId": 2388956
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC335",
+            "questionTitle": "Excel 表列序号",
+            "questionUUid": "700738eaa67342ba8f92c13cbbb7b29d",
+            "questionId": 2384202
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC336",
+            "questionTitle": "Excel列名称",
+            "questionUUid": "bb1e84f98b1640efbf2c6d3fc122bd04",
+            "questionId": 2390219
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC337",
+            "questionTitle": "IP地址转化",
+            "questionUUid": "67ae7c321ae147049ad569c8fe5c98cd",
+            "questionId": 2390743
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC338",
+            "questionTitle": "删除升序数组的重复元素(一)",
+            "questionUUid": "fa2ea5ccf0394596b4d7829b17b096ca",
+            "questionId": 2389300
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC339",
+            "questionTitle": "翻转单词",
+            "questionUUid": "aa7e93b78b294a859bb52d5b965aaaf1",
+            "questionId": 2389355
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC340",
+            "questionTitle": "阿拉伯数字转中文",
+            "questionUUid": "6eec992558164276a51d86d71678b300",
+            "questionId": 2390078
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC341",
+            "questionTitle": "金字塔",
+            "questionUUid": "609bd97833c4441eaaabf86ddf92f9b1",
+            "questionId": 2396064
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC342",
+            "questionTitle": "格点三角形",
+            "questionUUid": "7fa081e985b2422fb20e0136222f1f6c",
+            "questionId": 2396322
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC343",
+            "questionTitle": "和大于等于K的最短子数组",
+            "questionUUid": "3e1fd3d19fb0479d94652d49c7e1ead1",
+            "questionId": 2392062
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC344",
+            "questionTitle": "Z字形输出字符串",
+            "questionUUid": "8d5f90b2433648aea7ecdaba02be0f5a",
+            "questionId": 2392645
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC345",
+            "questionTitle": "城市群数量",
+            "questionUUid": "71cde4dee669475f94d8d38832374ada",
+            "questionId": 2392883
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC346",
+            "questionTitle": "交错的字符串",
+            "questionUUid": "9707297a343442458f638a8032811fe7",
+            "questionId": 2393118
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC347",
+            "questionTitle": "分割数组",
+            "questionUUid": "7a41720ebed04f37bb015febda6a75cb",
+            "questionId": 2393286
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC348",
+            "questionTitle": "四数之和",
+            "questionUUid": "d5b74806fa104518903884e182f47e35",
+            "questionId": 2393615
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC349",
+            "questionTitle": "计算数组的小和",
+            "questionUUid": "6dca0ebd48f94b4296fc11949e3a91b8",
+            "questionId": 2393753
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC350",
+            "questionTitle": "24点游戏算法",
+            "questionUUid": "36a06357855c4cd191f9d5ac8e75fec5",
+            "questionId": 2392277
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC351",
+            "questionTitle": "分数到小数",
+            "questionUUid": "4c16ea1e884b48bc90869184f52b9b66",
+            "questionId": 2398979
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC352",
+            "questionTitle": "矩阵置零",
+            "questionUUid": "e77f5c093978493396b22b9bc01af12d",
+            "questionId": 2399423
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC353",
+            "questionTitle": "回文子串的数量",
+            "questionUUid": "3e8b48c812864b0eabba0b8b25867738",
+            "questionId": 2399721
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC354",
+            "questionTitle": "下一个更大的数(二)",
+            "questionUUid": "3923970e95b140fdb65e6c00bcda403d",
+            "questionId": 2405508
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC355",
+            "questionTitle": "划分字母区间",
+            "questionUUid": "3a54a4f5bfa14891adb55484519210be",
+            "questionId": 2405851
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC356",
+            "questionTitle": "至多包含K种字符的子串",
+            "questionUUid": "04c926ef687340c3842a72edb5c23ede",
+            "questionId": 2406089
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC357",
+            "questionTitle": "矩阵第K小",
+            "questionUUid": "c754e7a920614cba9b8b692ba9b20b5d",
+            "questionId": 2406286
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC358",
+            "questionTitle": "组合",
+            "questionUUid": "7cfd3675cc964ae6818a771ac97ece5f",
+            "questionId": 2407524
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC359",
+            "questionTitle": "大数相减",
+            "questionUUid": "ae4d84312e384a1fa100b613f93f3fe0",
+            "questionId": 2408054
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC360",
+            "questionTitle": "右侧更小数",
+            "questionUUid": "b47363e689bc4a8088a68631d0c2754d",
+            "questionId": 2408320
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC361",
+            "questionTitle": "整数转罗马数字",
+            "questionUUid": "7649cde9711f42da81209819b790a640",
+            "questionId": 2408685
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC362",
+            "questionTitle": "字典序排列",
+            "questionUUid": "de49cf70277048518314fbdcaba9b42c",
+            "questionId": 2408921
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC363",
+            "questionTitle": "开锁",
+            "questionUUid": "e7cbabbf7e0a41ec98055ee5f3d33bbe",
+            "questionId": 2409413
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC364",
+            "questionTitle": "至少有 K 个重复字符的最长子串",
+            "questionUUid": "5aabbcfc45e2443ab7b8c9988bca6616",
+            "questionId": 2410980
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC365",
+            "questionTitle": "2的幂",
+            "questionUUid": "4a04240fd2be4e1287aab4af067f6d8f",
+            "questionId": 2413343
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC366",
+            "questionTitle": "平方升序数组",
+            "questionUUid": "1cc21a074bdd41bd9b9de50d510d6030",
+            "questionId": 2414298
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC367",
+            "questionTitle": "第K个n的排列",
+            "questionUUid": "1595969179464e4c940a90b36abb3c54",
+            "questionId": 2414861
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC368",
+            "questionTitle": "质数的计数",
+            "questionUUid": "190167d1990442da9adb133980259a27",
+            "questionId": 2415348
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC369",
+            "questionTitle": "[NOIP2002 普及组] 过河卒",
+            "questionUUid": "8439d41faa254418a3146c8cc0a68d62",
+            "questionId": 2417885
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC370",
+            "questionTitle": "距离是K的二叉树节点",
+            "questionUUid": "e280b9b5aabd42c9b36831e522485622",
+            "questionId": 2418320
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC371",
+            "questionTitle": "验证回文字符串(二)",
+            "questionUUid": "130e1a9eb88942239b66e53ec6e53f51",
+            "questionId": 2419058
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC372",
+            "questionTitle": "插入二叉搜索树",
+            "questionUUid": "4900db9ddfbd43a7a9841c6a408bacf2",
+            "questionId": 2419426
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC373",
+            "questionTitle": "二叉搜索树最小差值",
+            "questionUUid": "f8ac976b49bd450887b9281f315186c7",
+            "questionId": 2419672
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC374",
+            "questionTitle": "矩形重叠",
+            "questionUUid": "53acad54f18444a9b714acd75115d817",
+            "questionId": 2421448
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC375",
+            "questionTitle": "去除重复字母",
+            "questionUUid": "67bf02ee92304e1f822d12742cec0725",
+            "questionId": 2421683
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC376",
+            "questionTitle": "变回文串的最少插入次数",
+            "questionUUid": "bae2652b4db04a438368238498e4c13e",
+            "questionId": 2422764
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC377",
+            "questionTitle": "有序数组中出现一次的元素",
+            "questionUUid": "4c67fc80c37649ac906fee76ec82beb4",
+            "questionId": 2423200
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC378",
+            "questionTitle": "两数最大异或值",
+            "questionUUid": "2db2a8c399ef415cbb8e92ba1032f131",
+            "questionId": 2423546
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC379",
+            "questionTitle": "重排字符串",
+            "questionUUid": "6c3a5604cf274b2287fbe27c5dc74743",
+            "questionId": 2424762
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC380",
+            "questionTitle": "区间最小数乘区间和的最大值",
+            "questionUUid": "f31ec24143c549fcbbfafad1d480c393",
+            "questionId": 2425010
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC381",
+            "questionTitle": "累加序列",
+            "questionUUid": "ff244079fdaf4d8f9767887ec9582043",
+            "questionId": 2425705
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC382",
+            "questionTitle": "切割木头",
+            "questionUUid": "707d98cee255448c838c76918a702be0",
+            "questionId": 2426301
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC383",
+            "questionTitle": "主持人调度（一）",
+            "questionUUid": "e160b104354649b69600803184094adb",
+            "questionId": 2427095
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC384",
+            "questionTitle": "132序列",
+            "questionUUid": "eae8142169a74ad7884bb5dca3264128",
+            "questionId": 2428389
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC385",
+            "questionTitle": "划分等和序列",
+            "questionUUid": "89ceab10d36140ce8f0d38c56e417f02",
+            "questionId": 2428735
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC386",
+            "questionTitle": "子数组的最小值之和",
+            "questionUUid": "a7401d0dd4ec4071a31fd434e150bcc2",
+            "questionId": 2429365
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC387",
+            "questionTitle": "找到字符串中的异位词",
+            "questionUUid": "9ff491c910e5427fab6ae67745929085",
+            "questionId": 2429634
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC388",
+            "questionTitle": "砖墙的垂线",
+            "questionUUid": "4761ac466338487a97fc3b86c7d4e004",
+            "questionId": 2430015
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC389",
+            "questionTitle": "最大差值(二)",
+            "questionUUid": "5d29010c90c746af8ad4145be6ea8bcc",
+            "questionId": 2430115
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC390",
+            "questionTitle": "区间列表交集",
+            "questionUUid": "20dce144f04f4db298fbb3349e9d93ec",
+            "questionId": 2431478
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC391",
+            "questionTitle": "快乐数",
+            "questionUUid": "293b9ddd48444fa493dd17da0feb192d",
+            "questionId": 2432454
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC392",
+            "questionTitle": "参加会议的最大数目",
+            "questionUUid": "4d3151698e33454f98bce1284e553651",
+            "questionId": 2432701
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC393",
+            "questionTitle": "取金币",
+            "questionUUid": "cb33f5653a064b2eaf1fe30ba18f5977",
+            "questionId": 2433134
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC394",
+            "questionTitle": "删除升序数组的重复元素(二)",
+            "questionUUid": "5b617a77d7654dc193bfe5c2bdaf5cc8",
+            "questionId": 2433318
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC395",
+            "questionTitle": "滑动窗口中位数",
+            "questionUUid": "820366502ed6451eb9eebb5b129ed9fa",
+            "questionId": 2433789
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC396",
+            "questionTitle": "立方根",
+            "questionUUid": "ada3edb4700143f4917d3e631ad2481a",
+            "questionId": 2433899
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC397",
+            "questionTitle": "统计子序列数",
+            "questionUUid": "099527d2d771417685e89f82411e94f1",
+            "questionId": 2422519
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC398",
+            "questionTitle": "腐烂的苹果",
+            "questionUUid": "54ab9865ce7a45968b126d6968a77f34",
+            "questionId": 2426947
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC399",
+            "questionTitle": "顺时针旋转矩阵(二）",
+            "questionUUid": "5b7029aae0f84935b3ac9fad9e33a246",
+            "questionId": 2448441
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC400",
+            "questionTitle": "eli和字符串",
+            "questionUUid": "0259119d24ca40b897218f09137e4be2",
+            "questionId": 2453267
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC401",
+            "questionTitle": "K 个不同整数子数组",
+            "questionUUid": "ac380725961a46a2b0747f803f96d6e7",
+            "questionId": 2454586
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC402",
+            "questionTitle": "包含不超过两种字符的最长子串",
+            "questionUUid": "90d6a362fa7d4c519d557da797bb02ce",
+            "questionId": 2454794
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC403",
+            "questionTitle": "编辑距离为一",
+            "questionUUid": "0b4b22ae020247ba8ac086674f1bd2bc",
+            "questionId": 2458199
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC404",
+            "questionTitle": "最接近的K个元素",
+            "questionUUid": "b4d7edc45759453e9bc8ab71f0888e0f",
+            "questionId": 2458417
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC405",
+            "questionTitle": "乘积小于K的子数组数量",
+            "questionUUid": "3835601459064f52b154d2d0ab04087b",
+            "questionId": 2458873
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC406",
+            "questionTitle": "最长山脉",
+            "questionUUid": "f4e974a50eda429fbf36515a4197b148",
+            "questionId": 2459137
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC407",
+            "questionTitle": "区间子数组个数",
+            "questionUUid": "46a66d7a88574983beb59ac2f20b5019",
+            "questionId": 2459919
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC408",
+            "questionTitle": "第 K 小的距离对",
+            "questionUUid": "26849d7e31dd443c895a6921d67fa273",
+            "questionId": 2461080
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC409",
+            "questionTitle": "k-dis数对",
+            "questionUUid": "851207c8c6444085bca527f0567b356e",
+            "questionId": 2461324
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC410",
+            "questionTitle": "最长特殊子序列（一）",
+            "questionUUid": "1009ff84764b4640845be677f6faab3e",
+            "questionId": 2461698
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC411",
+            "questionTitle": "最长特殊子序列（二）",
+            "questionUUid": "27f32e4548644ec9a8ee6251d7de30bd",
+            "questionId": 2462418
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "NC412",
+            "questionTitle": "平方和",
+            "questionUUid": "6eade96172be4c8ba492747156481b9b",
+            "questionId": 2462513
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC413",
+            "questionTitle": "两个升序数组的中位数",
+            "questionUUid": "b3b59248e61f499482eaba636305474b",
+            "questionId": 2479036
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "NC414",
+            "questionTitle": "小红的最小三角形周长",
+            "questionUUid": "959c3b1ff4794ecea41a2569892ab4d4",
+            "questionId": 2485540
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "NC415",
+            "questionTitle": "不同的二叉搜索树(二)",
+            "questionUUid": "0082df531c4147408a72caf9ab167c8f",
+            "questionId": 2491674
+        }
+    ],
+    "js": [
+        {
+            "difficulty": 3,
+            "questionNo": "JS1",
+            "questionTitle": "直角三角形",
+            "questionUUid": "7e8a7d83569d49aaa9bc4bb43a9d2d6e",
+            "questionId": 2303787
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS2",
+            "questionTitle": "文件扩展名",
+            "questionUUid": "01ca4c6aa14249c2911f89baba9dc023",
+            "questionId": 2303788
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS3",
+            "questionTitle": "分隔符",
+            "questionUUid": "e5696992841841a8ab9d026324e4bb77",
+            "questionId": 2303789
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS4",
+            "questionTitle": "单向绑定",
+            "questionUUid": "728b83e2b9b948dbababcc4a494eefc3",
+            "questionId": 2303790
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS5",
+            "questionTitle": "创建数组",
+            "questionUUid": "04a6204cd4cf42dd8983c000110ada7e",
+            "questionId": 2303791
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS6",
+            "questionTitle": "判断版本",
+            "questionUUid": "dcc4b011c86c454aa58cb1790a8cb760",
+            "questionId": 2303793
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS7",
+            "questionTitle": "无重复数组",
+            "questionUUid": "d2fa3632268b41df9bc417b74802ad8c",
+            "questionId": 2303795
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS8",
+            "questionTitle": "数组排序",
+            "questionUUid": "18ea36ef9b0c470e9db7681eced6e8df",
+            "questionId": 2303796
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS9",
+            "questionTitle": "新数组",
+            "questionUUid": "bee781a51bc944bbad20f3c2ca798890",
+            "questionId": 2303797
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS10",
+            "questionTitle": "计数器",
+            "questionUUid": "59154c37d06c41b5b0e19b3b26272229",
+            "questionId": 2303799
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS11",
+            "questionTitle": "动态列表渲染",
+            "questionUUid": "347e2e88f11a4b0c89157568f26ea126",
+            "questionId": 2303800
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS12",
+            "questionTitle": "模板字符串",
+            "questionUUid": "66b54cfe77da4b67a177e0ab31658cd7",
+            "questionId": 2303801
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS13",
+            "questionTitle": "类继承",
+            "questionUUid": "c06b31bf07b94c5f9dbef9645e97ea28",
+            "questionId": 2303830
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS14",
+            "questionTitle": "参数解析器",
+            "questionUUid": "9a4cca8c0779438a8be39d45d0370597",
+            "questionId": 2303831
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS15",
+            "questionTitle": "生成页码",
+            "questionUUid": "d2f7c1ed14f5482490271fd3b9cf4a86",
+            "questionId": 2303832
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS16",
+            "questionTitle": "总成绩排名",
+            "questionUUid": "469004467e9a45c8b4f57401b653aef5",
+            "questionId": 2303833
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS17",
+            "questionTitle": "子字符串频次",
+            "questionUUid": "053caf9d4d9d449bb45a6b02a572f71b",
+            "questionId": 2303834
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS18",
+            "questionTitle": "继承",
+            "questionUUid": "ee1e5ee81b1c4fbb8c05a4e903621762",
+            "questionId": 2303835
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS19",
+            "questionTitle": "判断斐波那契数组",
+            "questionUUid": "9df2a366eb25495caff41612bd0ffca6",
+            "questionId": 2303836
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS20",
+            "questionTitle": "数组扁平化",
+            "questionUUid": "5d7e0cf4634344c98e6ae4eaa2336bed",
+            "questionId": 2303837
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS21",
+            "questionTitle": "数组过滤",
+            "questionUUid": "46d607f9bf64458daa8798339a7336d0",
+            "questionId": 2303838
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS22",
+            "questionTitle": "判断质数",
+            "questionUUid": "b936f737e2b34b3199a7c875446edd06",
+            "questionId": 2303844
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS23",
+            "questionTitle": "身份证",
+            "questionUUid": "e334cd14cbd14134a12fb605072fca44",
+            "questionId": 2303845
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS24",
+            "questionTitle": "Symbol",
+            "questionUUid": "12a1ce91d7f042c789d2a28b93b452da",
+            "questionId": 2303846
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS25",
+            "questionTitle": "相同的Set",
+            "questionUUid": "1417539606b84ad081147516158153a1",
+            "questionId": 2303849
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS26",
+            "questionTitle": "Getter",
+            "questionUUid": "e7f3a2f429d945e49f5b48ef1065beda",
+            "questionId": 2303850
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS27",
+            "questionTitle": "控制动画",
+            "questionUUid": "5cc9c7c7021c4206ac825fda21d6a4bb",
+            "questionId": 2303851
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS28",
+            "questionTitle": "Map保存节点",
+            "questionUUid": "01dfdb7db7cc4f2bb6a3dd52f096cf10",
+            "questionId": 2303852
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS29",
+            "questionTitle": "全选",
+            "questionUUid": "84b89f326e3c4e96bacb63296e84623a",
+            "questionId": 2303853
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS30",
+            "questionTitle": "回文字符串",
+            "questionUUid": "84424799af474ba093b06c29a1f12dfb",
+            "questionId": 2303854
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS31",
+            "questionTitle": "Proxy计数器",
+            "questionUUid": "9911c5f8ecef4b3088ccbba397b7a984",
+            "questionId": 2303855
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS32",
+            "questionTitle": "Proxy拦截器",
+            "questionUUid": "bd313bf21dc342a981f6ed87e21308b7",
+            "questionId": 2303856
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS33",
+            "questionTitle": "监听对象",
+            "questionUUid": "2cd8f8421e9b42b98152f56ef5e0ac79",
+            "questionId": 2303857
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS34",
+            "questionTitle": "购物面板",
+            "questionUUid": "1448469386f746f5941db2712372f373",
+            "questionId": 2303858
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS35",
+            "questionTitle": "接口",
+            "questionUUid": "8f91b606181746558e8a398e513d1078",
+            "questionId": 2303859
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS36",
+            "questionTitle": "切换Tab栏目",
+            "questionUUid": "70916dc9292e470eb70ac2a0d3b9a404",
+            "questionId": 2303860
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS37",
+            "questionTitle": "双向绑定",
+            "questionUUid": "d1452ec52a134b328f23b97c02b230bd",
+            "questionId": 2303861
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS38",
+            "questionTitle": "高频数据类型",
+            "questionUUid": "687425f78096428baa58fbdcf024244a",
+            "questionId": 2303862
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS39",
+            "questionTitle": "字体高亮",
+            "questionUUid": "1b7437b538af4689b1509db2068abe55",
+            "questionId": 2303863
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS40",
+            "questionTitle": "虚拟DOM",
+            "questionUUid": "a283d2c284ed49468c3b0f6ec0312b0f",
+            "questionId": 2303864
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "JS41",
+            "questionTitle": "dom 节点查找",
+            "questionUUid": "74d74be449af4c66907fe2d6961c255c",
+            "questionId": 24572
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS43",
+            "questionTitle": "修改this指向",
+            "questionUUid": "a616b3de81b948fda9a92db7e86bd171",
+            "questionId": 24574
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "JS44",
+            "questionTitle": "根据包名，在指定空间中创建对象",
+            "questionUUid": "a82e035501504cedbe881d08c824a381",
+            "questionId": 24575
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS45",
+            "questionTitle": "数组去重",
+            "questionUUid": "0b5ae9c4a8c546f79e2547c0179bfdc2",
+            "questionId": 24576
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "JS46",
+            "questionTitle": "斐波那契数列",
+            "questionUUid": "aa8ffe28ec7c4050b2aa8bc9d26710e9",
+            "questionId": 24577
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS47",
+            "questionTitle": "时间格式化输出",
+            "questionUUid": "a789783e7c984f10a0bf649f6d4e2d59",
+            "questionId": 24578
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "JS48",
+            "questionTitle": "获取字符串的长度",
+            "questionUUid": "e436bbc408744b73b69a8925fac26efc",
+            "questionId": 24579
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS49",
+            "questionTitle": "邮箱字符串判断",
+            "questionUUid": "c72b2b5472704d4a98597cb74b0257a7",
+            "questionId": 24580
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "JS50",
+            "questionTitle": "计数",
+            "questionUUid": "628339bd8e6e440590ad86caa7ac6849",
+            "questionId": 24876
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS51",
+            "questionTitle": "查找重复元素",
+            "questionUUid": "871a468deecf453589ea261835d6b78b",
+            "questionId": 24877
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS52",
+            "questionTitle": "计时器",
+            "questionUUid": "72c661d926494bd8a50608506915268c",
+            "questionId": 24884
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS53",
+            "questionTitle": "流程控制",
+            "questionUUid": "8a7bff7ab0d345d5ac5c82e41d9f7115",
+            "questionId": 24885
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "JS54",
+            "questionTitle": "函数传参",
+            "questionUUid": "80365a2685144559817e3d5e0c27f3a8",
+            "questionId": 24886
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "JS55",
+            "questionTitle": "函数的上下文",
+            "questionUUid": "5e97b94794bd438f893137b2d3b28a6a",
+            "questionId": 24887
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "JS56",
+            "questionTitle": "返回函数",
+            "questionUUid": "1f9fd23cdfd14675ab10207191e1d035",
+            "questionId": 24888
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS57",
+            "questionTitle": "使用闭包",
+            "questionUUid": "578026cd24e3446bbf27fe565473dc26",
+            "questionId": 24889
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "JS58",
+            "questionTitle": "二次封装函数1",
+            "questionUUid": "fb2d46b99947455a897f2e9fe2268355",
+            "questionId": 24890
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "JS59",
+            "questionTitle": "使用arguments",
+            "questionUUid": "df84fa320cbe49d3b4a17516974b1136",
+            "questionId": 24891
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "JS60",
+            "questionTitle": "使用apply调用函数",
+            "questionUUid": "d47b482e7148497582c7a995df51f393",
+            "questionId": 24892
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "JS61",
+            "questionTitle": "二次封装函数2",
+            "questionUUid": "694afeb930f74392bda01a815219d81b",
+            "questionId": 24893
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "JS62",
+            "questionTitle": "柯里化",
+            "questionUUid": "bb78d69986794470969674a8b504ac00",
+            "questionId": 24894
+        },
+        {
+            "difficulty": 4,
+            "questionNo": "JS63",
+            "questionTitle": "模块",
+            "questionUUid": "48e53feaabe94506a61300edadb5496d",
+            "questionId": 24897
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "JS64",
+            "questionTitle": "二进制转换1",
+            "questionUUid": "2c7f25d532aa4e20b67af9d3c93dc65f",
+            "questionId": 24898
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "JS65",
+            "questionTitle": "二进制转换2",
+            "questionUUid": "4123561150114d119ba41f28219a454f",
+            "questionId": 24899
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "JS66",
+            "questionTitle": "二进制转换",
+            "questionUUid": "7b74386695cc48349af37196f45e62a8",
+            "questionId": 24900
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "JS67",
+            "questionTitle": "乘法",
+            "questionUUid": "6429776e4630435cbc3eeb36bdf41f83",
+            "questionId": 24901
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "JS68",
+            "questionTitle": "改变上下文",
+            "questionUUid": "dfcc28bf243642b795eaf5a2a621acc5",
+            "questionId": 24902
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "JS69",
+            "questionTitle": "批量改变对象的属性",
+            "questionUUid": "4f7d25a30eb1463cbf1daac39ec04f8d",
+            "questionId": 24903
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "JS70",
+            "questionTitle": "属性遍历",
+            "questionUUid": "0158a4f165154f2eaf27d1907aa55e57",
+            "questionId": 24904
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "JS71",
+            "questionTitle": "判断是否包含数字",
+            "questionUUid": "0fcb4eb9306d4bec837d0037fe39bcf7",
+            "questionId": 24905
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "JS72",
+            "questionTitle": "检查重复字符串",
+            "questionUUid": "5ef31f11adf64d9fb18d74860e9ab873",
+            "questionId": 24906
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "JS73",
+            "questionTitle": "判断是否以元音字母结尾",
+            "questionUUid": "c141ec7458f244a1ba1bb334c71e0f27",
+            "questionId": 24907
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "JS74",
+            "questionTitle": "获取指定字符串",
+            "questionUUid": "4ec56ad04a9a4402a01e50a390a8060a",
+            "questionId": 24908
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "JS75",
+            "questionTitle": "判断是否符合指定格式",
+            "questionUUid": "eb86f08c478749868a01861f5ddad28b",
+            "questionId": 24909
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS76",
+            "questionTitle": "判断是否符合USD格式",
+            "questionUUid": "667dd00250d04d06989ed1b69102c9ab",
+            "questionId": 24910
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS77",
+            "questionTitle": "颜色字符串转换",
+            "questionUUid": "80b08802a833419f9c4ccc6e042c1cca",
+            "questionId": 25198
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS78",
+            "questionTitle": "将字符串转换为驼峰格式",
+            "questionUUid": "2ded24e34ec34325a62d42d0c8479bae",
+            "questionId": 25199
+        },
+        {
+            "difficulty": 5,
+            "questionNo": "JS79",
+            "questionTitle": "购物车",
+            "questionUUid": "3b4a342351ce483e813e5588446fc1f8",
+            "questionId": 163632
+        },
+        {
+            "difficulty": 5,
+            "questionNo": "JS80",
+            "questionTitle": "表格排序",
+            "questionUUid": "a23d261947194d5d8e2687aa873d96e4",
+            "questionId": 180777
+        },
+        {
+            "difficulty": 5,
+            "questionNo": "JS81",
+            "questionTitle": "替换链接",
+            "questionUUid": "4578a70b955848ff8e95c1f88c94c1ba",
+            "questionId": 180872
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS82",
+            "questionTitle": "倒计时",
+            "questionUUid": "d86defce50ea45dd92c7a4fbde17d64b",
+            "questionId": 180975
+        },
+        {
+            "difficulty": 5,
+            "questionNo": "JS83",
+            "questionTitle": "双色球机选一注",
+            "questionUUid": "4d712994d0364a159f8169b7b0e74d04",
+            "questionId": 327565
+        },
+        {
+            "difficulty": 5,
+            "questionNo": "JS84",
+            "questionTitle": "智能提示",
+            "questionUUid": "efccf73b4ceb4446b6d71127f874e6d3",
+            "questionId": 354639
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JS85",
+            "questionTitle": "文字输出",
+            "questionUUid": "b403d1051e5d4568912e6d265e1e2cde",
+            "questionId": 354768
+        },
+        {
+            "difficulty": 5,
+            "questionNo": "JS86",
+            "questionTitle": "分页",
+            "questionUUid": "71da71df9d1c4af9b8dc056213473ba7",
+            "questionId": 1701037
+        },
+        {
+            "difficulty": 5,
+            "questionNo": "JS87",
+            "questionTitle": "移动控制",
+            "questionUUid": "84af7932f53f4bbeaa1fa079a138bb35",
+            "questionId": 1701112
+        },
+        {
+            "difficulty": 5,
+            "questionNo": "JS88",
+            "questionTitle": "dom节点转成json数据",
+            "questionUUid": "0340a0c6d11d4aadba0aef86e6ae723f",
+            "questionId": 1701136
+        },
+        {
+            "difficulty": 5,
+            "questionNo": "JS89",
+            "questionTitle": "设置标签",
+            "questionUUid": "b164e87713804e1ab46cf7a84936b6ba",
+            "questionId": 1701436
+        },
+        {
+            "difficulty": 5,
+            "questionNo": "JS90",
+            "questionTitle": "选择组件",
+            "questionUUid": "ed0bd346dc9c4184aacda183484a3a6f",
+            "questionId": 1701468
+        },
+        {
+            "difficulty": 5,
+            "questionNo": "JS91",
+            "questionTitle": "简易计算器",
+            "questionUUid": "8237298fd1354cdaabd04796280cc90e",
+            "questionId": 1701511
+        }
+    ]
+}
