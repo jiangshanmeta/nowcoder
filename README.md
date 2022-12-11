@@ -446,7 +446,7 @@
 | JS6 | 判断版本 |  | 中等  |
 | JS7 | 无重复数组 |  | 中等  |
 | JS8 | 数组排序 |  | 中等  |
-| JS9 | 新数组 |  | 中等  |
+| JS9 | 新数组 | [JavaScript](./src/js.JS9.2303797/solution.js) | 中等  |
 | JS10 | 计数器 | [JavaScript](./src/js.JS10.2303799/solution.js) | 中等  |
 | JS11 | 动态列表渲染 |  | 中等  |
 | JS12 | 模板字符串 |  | 中等  |
@@ -459,7 +459,7 @@
 | JS19 | 判断斐波那契数组 |  | 中等  |
 | JS20 | 数组扁平化 | [JavaScript](./src/js.JS20.2303837/solution.js) | 中等  |
 | JS21 | 数组过滤 |  | 中等  |
-| JS22 | 判断质数 |  | 中等  |
+| JS22 | 判断质数 | [JavaScript](./src/js.JS22.2303844/solution.js) | 中等  |
 | JS23 | 身份证 |  | 中等  |
 | JS24 | Symbol |  | 中等  |
 | JS25 | 相同的Set | [JavaScript](./src/js.JS25.2303849/solution.js) | 中等  |
@@ -482,7 +482,7 @@
 | JS43 | 修改this指向 |  | 中等  |
 | JS44 | 根据包名，在指定空间中创建对象 |  | 入门  |
 | JS45 | 数组去重 | [JavaScript](./src/js.JS45.24576/solution.js) | 中等  |
-| JS46 | 斐波那契数列 |  | 入门  |
+| JS46 | 斐波那契数列 | [JavaScript](./src/js.JS46.24577/solution.js) | 入门  |
 | JS47 | 时间格式化输出 |  | 中等  |
 | JS48 | 获取字符串的长度 | [JavaScript](./src/js.JS48.24579/solution.js) | 简单  |
 | JS49 | 邮箱字符串判断 |  | 中等  |
@@ -508,10 +508,10 @@
 | JS69 | 批量改变对象的属性 |  | 入门  |
 | JS70 | 属性遍历 |  | 简单  |
 | JS71 | 判断是否包含数字 | [JavaScript](./src/js.JS71.24905/solution.js) | 入门  |
-| JS72 | 检查重复字符串 |  | 简单  |
-| JS73 | 判断是否以元音字母结尾 |  | 入门  |
-| JS74 | 获取指定字符串 |  | 简单  |
-| JS75 | 判断是否符合指定格式 |  | 简单  |
+| JS72 | 检查重复字符串 | [JavaScript](./src/js.JS72.24906/solution.js) | 简单  |
+| JS73 | 判断是否以元音字母结尾 | [JavaScript](./src/js.JS73.24907/solution.js) | 入门  |
+| JS74 | 获取指定字符串 | [JavaScript](./src/js.JS74.24908/solution.js) | 简单  |
+| JS75 | 判断是否符合指定格式 | [JavaScript](./src/js.JS75.24909/solution.js) | 简单  |
 | JS76 | 判断是否符合USD格式 |  | 中等  |
 | JS77 | 颜色字符串转换 |  | 中等  |
 | JS78 | 将字符串转换为驼峰格式 |  | 中等  |
