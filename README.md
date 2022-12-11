@@ -442,12 +442,12 @@
 | JS2 | 文件扩展名 | [JavaScript](./src/js.JS2.2303788/solution.js) | 中等  |
 | JS3 | 分隔符 |  | 中等  |
 | JS4 | 单向绑定 |  | 中等  |
-| JS5 | 创建数组 |  | 中等  |
+| JS5 | 创建数组 | [JavaScript](./src/js.JS5.2303791/solution.js) | 中等  |
 | JS6 | 判断版本 |  | 中等  |
 | JS7 | 无重复数组 |  | 中等  |
 | JS8 | 数组排序 |  | 中等  |
 | JS9 | 新数组 |  | 中等  |
-| JS10 | 计数器 |  | 中等  |
+| JS10 | 计数器 | [JavaScript](./src/js.JS10.2303799/solution.js) | 中等  |
 | JS11 | 动态列表渲染 |  | 中等  |
 | JS12 | 模板字符串 |  | 中等  |
 | JS13 | 类继承 |  | 中等  |
@@ -457,17 +457,17 @@
 | JS17 | 子字符串频次 |  | 中等  |
 | JS18 | 继承 |  | 中等  |
 | JS19 | 判断斐波那契数组 |  | 中等  |
-| JS20 | 数组扁平化 |  | 中等  |
+| JS20 | 数组扁平化 | [JavaScript](./src/js.JS20.2303837/solution.js) | 中等  |
 | JS21 | 数组过滤 |  | 中等  |
 | JS22 | 判断质数 |  | 中等  |
 | JS23 | 身份证 |  | 中等  |
 | JS24 | Symbol |  | 中等  |
-| JS25 | 相同的Set |  | 中等  |
+| JS25 | 相同的Set | [JavaScript](./src/js.JS25.2303849/solution.js) | 中等  |
 | JS26 | Getter |  | 中等  |
 | JS27 | 控制动画 |  | 中等  |
 | JS28 | Map保存节点 |  | 中等  |
 | JS29 | 全选 |  | 中等  |
-| JS30 | 回文字符串 |  | 中等  |
+| JS30 | 回文字符串 | [JavaScript](./src/js.JS30.2303854/solution.js) | 中等  |
 | JS31 | Proxy计数器 |  | 中等  |
 | JS32 | Proxy拦截器 |  | 中等  |
 | JS33 | 监听对象 |  | 中等  |
@@ -481,13 +481,13 @@
 | JS41 | dom 节点查找 |  | 入门  |
 | JS43 | 修改this指向 |  | 中等  |
 | JS44 | 根据包名，在指定空间中创建对象 |  | 入门  |
-| JS45 | 数组去重 |  | 中等  |
+| JS45 | 数组去重 | [JavaScript](./src/js.JS45.24576/solution.js) | 中等  |
 | JS46 | 斐波那契数列 |  | 入门  |
 | JS47 | 时间格式化输出 |  | 中等  |
-| JS48 | 获取字符串的长度 |  | 简单  |
+| JS48 | 获取字符串的长度 | [JavaScript](./src/js.JS48.24579/solution.js) | 简单  |
 | JS49 | 邮箱字符串判断 |  | 中等  |
-| JS50 | 计数 |  | 入门  |
-| JS51 | 查找重复元素 |  | 中等  |
+| JS50 | 计数 | [JavaScript](./src/js.JS50.24876/solution.js) | 入门  |
+| JS51 | 查找重复元素 | [JavaScript](./src/js.JS51.24877/solution.js) | 中等  |
 | JS52 | 计时器 |  | 中等  |
 | JS53 | 流程控制 |  | 中等  |
 | JS54 | 函数传参 |  | 入门  |
@@ -495,19 +495,19 @@
 | JS56 | 返回函数 |  | 简单  |
 | JS57 | 使用闭包 |  | 中等  |
 | JS58 | 二次封装函数1 |  | 入门  |
-| JS59 | 使用arguments |  | 入门  |
+| JS59 | 使用arguments | [JavaScript](./src/js.JS59.24891/solution.js) | 入门  |
 | JS60 | 使用apply调用函数 |  | 简单  |
 | JS61 | 二次封装函数2 |  | 简单  |
 | JS62 | 柯里化 |  | 入门  |
 | JS63 | 模块 |  | 较难  |
-| JS64 | 二进制转换1 |  | 简单  |
-| JS65 | 二进制转换2 |  | 入门  |
-| JS66 | 二进制转换 |  | 简单  |
+| JS64 | 二进制转换1 | [JavaScript](./src/js.JS64.24898/solution.js) | 简单  |
+| JS65 | 二进制转换2 | [JavaScript](./src/js.JS65.24899/solution.js) | 入门  |
+| JS66 | 二进制转换 | [JavaScript](./src/js.JS66.24900/solution.js) | 简单  |
 | JS67 | 乘法 |  | 入门  |
 | JS68 | 改变上下文 |  | 入门  |
 | JS69 | 批量改变对象的属性 |  | 入门  |
 | JS70 | 属性遍历 |  | 简单  |
-| JS71 | 判断是否包含数字 |  | 入门  |
+| JS71 | 判断是否包含数字 | [JavaScript](./src/js.JS71.24905/solution.js) | 入门  |
 | JS72 | 检查重复字符串 |  | 简单  |
 | JS73 | 判断是否以元音字母结尾 |  | 入门  |
 | JS74 | 获取指定字符串 |  | 简单  |
