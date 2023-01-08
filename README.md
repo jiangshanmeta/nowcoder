@@ -438,17 +438,17 @@
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
-| JS1 | 直角三角形 |  | 中等  |
+| JS1 | 直角三角形 | [JavaScript](./src/js.JS1.2303787/solution.js) | 中等  |
 | JS2 | 文件扩展名 | [JavaScript](./src/js.JS2.2303788/solution.js) | 中等  |
-| JS3 | 分隔符 |  | 中等  |
-| JS4 | 单向绑定 |  | 中等  |
+| JS3 | 分隔符 | [JavaScript](./src/js.JS3.2303789/solution.js) | 中等  |
+| JS4 | 单向绑定 | [JavaScript](./src/js.JS4.2303790/solution.js) | 中等  |
 | JS5 | 创建数组 | [JavaScript](./src/js.JS5.2303791/solution.js) | 中等  |
 | JS6 | 判断版本 |  | 中等  |
 | JS7 | 无重复数组 |  | 中等  |
 | JS8 | 数组排序 |  | 中等  |
 | JS9 | 新数组 | [JavaScript](./src/js.JS9.2303797/solution.js) | 中等  |
 | JS10 | 计数器 | [JavaScript](./src/js.JS10.2303799/solution.js) | 中等  |
-| JS11 | 动态列表渲染 |  | 中等  |
+| JS11 | 动态列表渲染 | [JavaScript](./src/js.JS11.2303800/solution.js) | 中等  |
 | JS12 | 模板字符串 |  | 中等  |
 | JS13 | 类继承 |  | 中等  |
 | JS14 | 参数解析器 |  | 中等  |
@@ -458,7 +458,7 @@
 | JS18 | 继承 |  | 中等  |
 | JS19 | 判断斐波那契数组 |  | 中等  |
 | JS20 | 数组扁平化 | [JavaScript](./src/js.JS20.2303837/solution.js) | 中等  |
-| JS21 | 数组过滤 |  | 中等  |
+| JS21 | 数组过滤 | [JavaScript](./src/js.JS21.2303838/solution.js) | 中等  |
 | JS22 | 判断质数 | [JavaScript](./src/js.JS22.2303844/solution.js) | 中等  |
 | JS23 | 身份证 |  | 中等  |
 | JS24 | Symbol |  | 中等  |
@@ -475,7 +475,7 @@
 | JS35 | 接口 |  | 中等  |
 | JS36 | 切换Tab栏目 |  | 中等  |
 | JS37 | 双向绑定 |  | 中等  |
-| JS38 | 高频数据类型 |  | 中等  |
+| JS38 | 高频数据类型 | [JavaScript](./src/js.JS38.2303862/solution.js) | 中等  |
 | JS39 | 字体高亮 |  | 中等  |
 | JS40 | 虚拟DOM |  | 中等  |
 | JS41 | dom 节点查找 |  | 入门  |
@@ -492,8 +492,8 @@
 | JS53 | 流程控制 |  | 中等  |
 | JS54 | 函数传参 |  | 入门  |
 | JS55 | 函数的上下文 |  | 入门  |
-| JS56 | 返回函数 |  | 简单  |
-| JS57 | 使用闭包 |  | 中等  |
+| JS56 | 返回函数 | [JavaScript](./src/js.JS56.24888/solution.js) | 简单  |
+| JS57 | 使用闭包 | [JavaScript](./src/js.JS57.24889/solution.js) | 中等  |
 | JS58 | 二次封装函数1 |  | 入门  |
 | JS59 | 使用arguments | [JavaScript](./src/js.JS59.24891/solution.js) | 入门  |
 | JS60 | 使用apply调用函数 |  | 简单  |
