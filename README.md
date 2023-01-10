@@ -449,14 +449,14 @@
 | JS9 | 新数组 | [JavaScript](./src/js.JS9.2303797/solution.js) | 中等  |
 | JS10 | 计数器 | [JavaScript](./src/js.JS10.2303799/solution.js) | 中等  |
 | JS11 | 动态列表渲染 | [JavaScript](./src/js.JS11.2303800/solution.js) | 中等  |
-| JS12 | 模板字符串 |  | 中等  |
-| JS13 | 类继承 |  | 中等  |
+| JS12 | 模板字符串 | [JavaScript](./src/js.JS12.2303801/solution.js) | 中等  |
+| JS13 | 类继承 | [JavaScript](./src/js.JS13.2303830/solution.js) | 中等  |
 | JS14 | 参数解析器 |  | 中等  |
-| JS15 | 生成页码 |  | 中等  |
-| JS16 | 总成绩排名 |  | 中等  |
-| JS17 | 子字符串频次 |  | 中等  |
-| JS18 | 继承 |  | 中等  |
-| JS19 | 判断斐波那契数组 |  | 中等  |
+| JS15 | 生成页码 | [JavaScript](./src/js.JS15.2303832/solution.js) | 中等  |
+| JS16 | 总成绩排名 | [JavaScript](./src/js.JS16.2303833/solution.js) | 中等  |
+| JS17 | 子字符串频次 | [JavaScript](./src/js.JS17.2303834/solution.js) | 中等  |
+| JS18 | 继承 | [JavaScript](./src/js.JS18.2303835/solution.js) | 中等  |
+| JS19 | 判断斐波那契数组 | [JavaScript](./src/js.JS19.2303836/solution.js) | 中等  |
 | JS20 | 数组扁平化 | [JavaScript](./src/js.JS20.2303837/solution.js) | 中等  |
 | JS21 | 数组过滤 | [JavaScript](./src/js.JS21.2303838/solution.js) | 中等  |
 | JS22 | 判断质数 | [JavaScript](./src/js.JS22.2303844/solution.js) | 中等  |
@@ -478,7 +478,7 @@
 | JS38 | 高频数据类型 | [JavaScript](./src/js.JS38.2303862/solution.js) | 中等  |
 | JS39 | 字体高亮 |  | 中等  |
 | JS40 | 虚拟DOM |  | 中等  |
-| JS41 | dom 节点查找 |  | 入门  |
+| JS41 | dom 节点查找 | [JavaScript](./src/js.JS41.24572/solution.js) | 入门  |
 | JS43 | 修改this指向 |  | 中等  |
 | JS44 | 根据包名，在指定空间中创建对象 |  | 入门  |
 | JS45 | 数组去重 | [JavaScript](./src/js.JS45.24576/solution.js) | 中等  |
