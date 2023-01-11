@@ -451,7 +451,7 @@
 | JS11 | 动态列表渲染 | [JavaScript](./src/js.JS11.2303800/solution.js) | 中等  |
 | JS12 | 模板字符串 | [JavaScript](./src/js.JS12.2303801/solution.js) | 中等  |
 | JS13 | 类继承 | [JavaScript](./src/js.JS13.2303830/solution.js) | 中等  |
-| JS14 | 参数解析器 |  | 中等  |
+| JS14 | 参数解析器 | [JavaScript](./src/js.JS14.2303831/solution.js) | 中等  |
 | JS15 | 生成页码 | [JavaScript](./src/js.JS15.2303832/solution.js) | 中等  |
 | JS16 | 总成绩排名 | [JavaScript](./src/js.JS16.2303833/solution.js) | 中等  |
 | JS17 | 子字符串频次 | [JavaScript](./src/js.JS17.2303834/solution.js) | 中等  |
@@ -461,11 +461,11 @@
 | JS21 | 数组过滤 | [JavaScript](./src/js.JS21.2303838/solution.js) | 中等  |
 | JS22 | 判断质数 | [JavaScript](./src/js.JS22.2303844/solution.js) | 中等  |
 | JS23 | 身份证 |  | 中等  |
-| JS24 | Symbol |  | 中等  |
+| JS24 | Symbol | [JavaScript](./src/js.JS24.2303846/solution.js) | 中等  |
 | JS25 | 相同的Set | [JavaScript](./src/js.JS25.2303849/solution.js) | 中等  |
-| JS26 | Getter |  | 中等  |
+| JS26 | Getter | [JavaScript](./src/js.JS26.2303850/solution.js) | 中等  |
 | JS27 | 控制动画 |  | 中等  |
-| JS28 | Map保存节点 |  | 中等  |
+| JS28 | Map保存节点 | [JavaScript](./src/js.JS28.2303852/solution.js) | 中等  |
 | JS29 | 全选 |  | 中等  |
 | JS30 | 回文字符串 | [JavaScript](./src/js.JS30.2303854/solution.js) | 中等  |
 | JS31 | Proxy计数器 |  | 中等  |
@@ -479,8 +479,8 @@
 | JS39 | 字体高亮 |  | 中等  |
 | JS40 | 虚拟DOM |  | 中等  |
 | JS41 | dom 节点查找 | [JavaScript](./src/js.JS41.24572/solution.js) | 入门  |
-| JS43 | 修改this指向 |  | 中等  |
-| JS44 | 根据包名，在指定空间中创建对象 |  | 入门  |
+| JS43 | 修改this指向 | [JavaScript](./src/js.JS43.24574/solution.js) | 中等  |
+| JS44 | 根据包名，在指定空间中创建对象 | [JavaScript](./src/js.JS44.24575/solution.js) | 入门  |
 | JS45 | 数组去重 | [JavaScript](./src/js.JS45.24576/solution.js) | 中等  |
 | JS46 | 斐波那契数列 | [JavaScript](./src/js.JS46.24577/solution.js) | 入门  |
 | JS47 | 时间格式化输出 |  | 中等  |
