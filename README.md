@@ -488,9 +488,9 @@
 | JS49 | 邮箱字符串判断 |  | 中等  |
 | JS50 | 计数 | [JavaScript](./src/js.JS50.24876/solution.js) | 入门  |
 | JS51 | 查找重复元素 | [JavaScript](./src/js.JS51.24877/solution.js) | 中等  |
-| JS52 | 计时器 |  | 中等  |
-| JS53 | 流程控制 |  | 中等  |
-| JS54 | 函数传参 |  | 入门  |
+| JS52 | 计时器 | [JavaScript](./src/js.JS52.24884/solution.js) | 中等  |
+| JS53 | 流程控制 | [JavaScript](./src/js.JS53.24885/solution.js) | 中等  |
+| JS54 | 函数传参 | [JavaScript](./src/js.JS54.24886/solution.js) | 入门  |
 | JS55 | 函数的上下文 |  | 入门  |
 | JS56 | 返回函数 | [JavaScript](./src/js.JS56.24888/solution.js) | 简单  |
 | JS57 | 使用闭包 | [JavaScript](./src/js.JS57.24889/solution.js) | 中等  |
