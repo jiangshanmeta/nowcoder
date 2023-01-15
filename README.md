@@ -443,7 +443,7 @@
 | JS3 | 分隔符 | [JavaScript](./src/js.JS3.2303789/solution.js) | 中等  |
 | JS4 | 单向绑定 | [JavaScript](./src/js.JS4.2303790/solution.js) | 中等  |
 | JS5 | 创建数组 | [JavaScript](./src/js.JS5.2303791/solution.js) | 中等  |
-| JS6 | 判断版本 |  | 中等  |
+| JS6 | 判断版本 | [JavaScript](./src/js.JS6.2303793/solution.js) | 中等  |
 | JS7 | 无重复数组 |  | 中等  |
 | JS8 | 数组排序 |  | 中等  |
 | JS9 | 新数组 | [JavaScript](./src/js.JS9.2303797/solution.js) | 中等  |
@@ -491,14 +491,14 @@
 | JS52 | 计时器 | [JavaScript](./src/js.JS52.24884/solution.js) | 中等  |
 | JS53 | 流程控制 | [JavaScript](./src/js.JS53.24885/solution.js) | 中等  |
 | JS54 | 函数传参 | [JavaScript](./src/js.JS54.24886/solution.js) | 入门  |
-| JS55 | 函数的上下文 |  | 入门  |
+| JS55 | 函数的上下文 | [JavaScript](./src/js.JS55.24887/solution.js) | 入门  |
 | JS56 | 返回函数 | [JavaScript](./src/js.JS56.24888/solution.js) | 简单  |
 | JS57 | 使用闭包 | [JavaScript](./src/js.JS57.24889/solution.js) | 中等  |
-| JS58 | 二次封装函数1 |  | 入门  |
+| JS58 | 二次封装函数1 | [JavaScript](./src/js.JS58.24890/solution.js) | 入门  |
 | JS59 | 使用arguments | [JavaScript](./src/js.JS59.24891/solution.js) | 入门  |
-| JS60 | 使用apply调用函数 |  | 简单  |
-| JS61 | 二次封装函数2 |  | 简单  |
-| JS62 | 柯里化 |  | 入门  |
+| JS60 | 使用apply调用函数 | [JavaScript](./src/js.JS60.24892/solution.js) | 简单  |
+| JS61 | 二次封装函数2 | [JavaScript](./src/js.JS61.24893/solution.js) | 简单  |
+| JS62 | 柯里化 | [JavaScript](./src/js.JS62.24894/solution.js) | 入门  |
 | JS63 | 模块 |  | 较难  |
 | JS64 | 二进制转换1 | [JavaScript](./src/js.JS64.24898/solution.js) | 简单  |
 | JS65 | 二进制转换2 | [JavaScript](./src/js.JS65.24899/solution.js) | 入门  |
