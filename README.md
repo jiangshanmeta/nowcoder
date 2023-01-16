@@ -460,20 +460,20 @@
 | JS20 | 数组扁平化 | [JavaScript](./src/js.JS20.2303837/solution.js) | 中等  |
 | JS21 | 数组过滤 | [JavaScript](./src/js.JS21.2303838/solution.js) | 中等  |
 | JS22 | 判断质数 | [JavaScript](./src/js.JS22.2303844/solution.js) | 中等  |
-| JS23 | 身份证 |  | 中等  |
+| JS23 | 身份证 | [JavaScript](./src/js.JS23.2303845/solution.js) | 中等  |
 | JS24 | Symbol | [JavaScript](./src/js.JS24.2303846/solution.js) | 中等  |
 | JS25 | 相同的Set | [JavaScript](./src/js.JS25.2303849/solution.js) | 中等  |
 | JS26 | Getter | [JavaScript](./src/js.JS26.2303850/solution.js) | 中等  |
-| JS27 | 控制动画 |  | 中等  |
+| JS27 | 控制动画 | [JavaScript](./src/js.JS27.2303851/solution.js) | 中等  |
 | JS28 | Map保存节点 | [JavaScript](./src/js.JS28.2303852/solution.js) | 中等  |
-| JS29 | 全选 |  | 中等  |
+| JS29 | 全选 | [JavaScript](./src/js.JS29.2303853/solution.js) | 中等  |
 | JS30 | 回文字符串 | [JavaScript](./src/js.JS30.2303854/solution.js) | 中等  |
-| JS31 | Proxy计数器 |  | 中等  |
-| JS32 | Proxy拦截器 |  | 中等  |
+| JS31 | Proxy计数器 | [JavaScript](./src/js.JS31.2303855/solution.js) | 中等  |
+| JS32 | Proxy拦截器 | [JavaScript](./src/js.JS32.2303856/solution.js) | 中等  |
 | JS33 | 监听对象 |  | 中等  |
-| JS34 | 购物面板 |  | 中等  |
-| JS35 | 接口 |  | 中等  |
-| JS36 | 切换Tab栏目 |  | 中等  |
+| JS34 | 购物面板 | [JavaScript](./src/js.JS34.2303858/solution.js) | 中等  |
+| JS35 | 接口 | [JavaScript](./src/js.JS35.2303859/solution.js) | 中等  |
+| JS36 | 切换Tab栏目 | [JavaScript](./src/js.JS36.2303860/solution.js) | 中等  |
 | JS37 | 双向绑定 |  | 中等  |
 | JS38 | 高频数据类型 | [JavaScript](./src/js.JS38.2303862/solution.js) | 中等  |
 | JS39 | 字体高亮 |  | 中等  |
