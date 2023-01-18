@@ -4,7 +4,6 @@ import { difficultyMap, languages, topicKeyLabelMap, TopicKeys, } from './config
 import { genFolderName, } from './common';
 
 import questionMapData from './question.json';
-import { Question, } from './typing';
 
 const extLabelMap = languages.reduce<Record<string, string>>((obj, { label, ext, }) => {
     obj[ext] = label;
@@ -54,7 +53,7 @@ const mainData = topicKeys.map((topicKey) => {
     }).join('\n');
 
     return `
-## ${topicKeyLabelMap[topicKey]}
+## ${topicKeyLabelMap[topicKey]} (${Object.keys(answersMap[topicKey]).length}/${questionMapData[topicKey].length})
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
