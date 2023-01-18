@@ -14,7 +14,7 @@
 
 [LeetCode笔记本](https://github.com/jiangshanmeta/leetcode-notebook)
 
-## 算法
+## 算法 (1/415)
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -434,7 +434,7 @@
 | NC414 | 小红的最小三角形周长 |  | 较难  |
 | NC415 | 不同的二叉搜索树(二) |  | 中等  |
 
-## JS能力测评
+## JS能力测评 (66/90)
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -470,13 +470,13 @@
 | JS30 | 回文字符串 | [JavaScript](./src/js.JS30.2303854/solution.js) | 中等  |
 | JS31 | Proxy计数器 | [JavaScript](./src/js.JS31.2303855/solution.js) | 中等  |
 | JS32 | Proxy拦截器 | [JavaScript](./src/js.JS32.2303856/solution.js) | 中等  |
-| JS33 | 监听对象 |  | 中等  |
+| JS33 | 监听对象 | [JavaScript](./src/js.JS33.2303857/solution.js) | 中等  |
 | JS34 | 购物面板 | [JavaScript](./src/js.JS34.2303858/solution.js) | 中等  |
 | JS35 | 接口 | [JavaScript](./src/js.JS35.2303859/solution.js) | 中等  |
 | JS36 | 切换Tab栏目 | [JavaScript](./src/js.JS36.2303860/solution.js) | 中等  |
-| JS37 | 双向绑定 |  | 中等  |
+| JS37 | 双向绑定 | [JavaScript](./src/js.JS37.2303861/solution.js) | 中等  |
 | JS38 | 高频数据类型 | [JavaScript](./src/js.JS38.2303862/solution.js) | 中等  |
-| JS39 | 字体高亮 |  | 中等  |
+| JS39 | 字体高亮 | [JavaScript](./src/js.JS39.2303863/solution.js) | 中等  |
 | JS40 | 虚拟DOM |  | 中等  |
 | JS41 | dom 节点查找 | [JavaScript](./src/js.JS41.24572/solution.js) | 入门  |
 | JS43 | 修改this指向 | [JavaScript](./src/js.JS43.24574/solution.js) | 中等  |
@@ -485,7 +485,7 @@
 | JS46 | 斐波那契数列 | [JavaScript](./src/js.JS46.24577/solution.js) | 入门  |
 | JS47 | 时间格式化输出 |  | 中等  |
 | JS48 | 获取字符串的长度 | [JavaScript](./src/js.JS48.24579/solution.js) | 简单  |
-| JS49 | 邮箱字符串判断 |  | 中等  |
+| JS49 | 邮箱字符串判断 | [JavaScript](./src/js.JS49.24580/solution.js) | 中等  |
 | JS50 | 计数 | [JavaScript](./src/js.JS50.24876/solution.js) | 入门  |
 | JS51 | 查找重复元素 | [JavaScript](./src/js.JS51.24877/solution.js) | 中等  |
 | JS52 | 计时器 | [JavaScript](./src/js.JS52.24884/solution.js) | 中等  |
@@ -499,7 +499,7 @@
 | JS60 | 使用apply调用函数 | [JavaScript](./src/js.JS60.24892/solution.js) | 简单  |
 | JS61 | 二次封装函数2 | [JavaScript](./src/js.JS61.24893/solution.js) | 简单  |
 | JS62 | 柯里化 | [JavaScript](./src/js.JS62.24894/solution.js) | 入门  |
-| JS63 | 模块 |  | 较难  |
+| JS63 | 模块 | [JavaScript](./src/js.JS63.24897/solution.js) | 较难  |
 | JS64 | 二进制转换1 | [JavaScript](./src/js.JS64.24898/solution.js) | 简单  |
 | JS65 | 二进制转换2 | [JavaScript](./src/js.JS65.24899/solution.js) | 入门  |
 | JS66 | 二进制转换 | [JavaScript](./src/js.JS66.24900/solution.js) | 简单  |
