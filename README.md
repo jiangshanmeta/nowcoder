@@ -434,7 +434,7 @@
 | NC414 | 小红的最小三角形周长 |  | 较难  |
 | NC415 | 不同的二叉搜索树(二) |  | 中等  |
 
-## JS能力测评 (66/90)
+## JS能力测评 (74/90)
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -444,7 +444,7 @@
 | JS4 | 单向绑定 | [JavaScript](./src/js.JS4.2303790/solution.js) | 中等  |
 | JS5 | 创建数组 | [JavaScript](./src/js.JS5.2303791/solution.js) | 中等  |
 | JS6 | 判断版本 | [JavaScript](./src/js.JS6.2303793/solution.js) | 中等  |
-| JS7 | 无重复数组 |  | 中等  |
+| JS7 | 无重复数组 | [JavaScript](./src/js.JS7.2303795/solution.js) | 中等  |
 | JS8 | 数组排序 |  | 中等  |
 | JS9 | 新数组 | [JavaScript](./src/js.JS9.2303797/solution.js) | 中等  |
 | JS10 | 计数器 | [JavaScript](./src/js.JS10.2303799/solution.js) | 中等  |
@@ -477,13 +477,13 @@
 | JS37 | 双向绑定 | [JavaScript](./src/js.JS37.2303861/solution.js) | 中等  |
 | JS38 | 高频数据类型 | [JavaScript](./src/js.JS38.2303862/solution.js) | 中等  |
 | JS39 | 字体高亮 | [JavaScript](./src/js.JS39.2303863/solution.js) | 中等  |
-| JS40 | 虚拟DOM |  | 中等  |
+| JS40 | 虚拟DOM | [JavaScript](./src/js.JS40.2303864/solution.js) | 中等  |
 | JS41 | dom 节点查找 | [JavaScript](./src/js.JS41.24572/solution.js) | 入门  |
 | JS43 | 修改this指向 | [JavaScript](./src/js.JS43.24574/solution.js) | 中等  |
 | JS44 | 根据包名，在指定空间中创建对象 | [JavaScript](./src/js.JS44.24575/solution.js) | 入门  |
 | JS45 | 数组去重 | [JavaScript](./src/js.JS45.24576/solution.js) | 中等  |
 | JS46 | 斐波那契数列 | [JavaScript](./src/js.JS46.24577/solution.js) | 入门  |
-| JS47 | 时间格式化输出 |  | 中等  |
+| JS47 | 时间格式化输出 | [JavaScript](./src/js.JS47.24578/solution.js) | 中等  |
 | JS48 | 获取字符串的长度 | [JavaScript](./src/js.JS48.24579/solution.js) | 简单  |
 | JS49 | 邮箱字符串判断 | [JavaScript](./src/js.JS49.24580/solution.js) | 中等  |
 | JS50 | 计数 | [JavaScript](./src/js.JS50.24876/solution.js) | 入门  |
@@ -503,10 +503,10 @@
 | JS64 | 二进制转换1 | [JavaScript](./src/js.JS64.24898/solution.js) | 简单  |
 | JS65 | 二进制转换2 | [JavaScript](./src/js.JS65.24899/solution.js) | 入门  |
 | JS66 | 二进制转换 | [JavaScript](./src/js.JS66.24900/solution.js) | 简单  |
-| JS67 | 乘法 |  | 入门  |
-| JS68 | 改变上下文 |  | 入门  |
-| JS69 | 批量改变对象的属性 |  | 入门  |
-| JS70 | 属性遍历 |  | 简单  |
+| JS67 | 乘法 | [JavaScript](./src/js.JS67.24901/solution.js) | 入门  |
+| JS68 | 改变上下文 | [JavaScript](./src/js.JS68.24902/solution.js) | 入门  |
+| JS69 | 批量改变对象的属性 | [JavaScript](./src/js.JS69.24903/solution.js) | 入门  |
+| JS70 | 属性遍历 | [JavaScript](./src/js.JS70.24904/solution.js) | 简单  |
 | JS71 | 判断是否包含数字 | [JavaScript](./src/js.JS71.24905/solution.js) | 入门  |
 | JS72 | 检查重复字符串 | [JavaScript](./src/js.JS72.24906/solution.js) | 简单  |
 | JS73 | 判断是否以元音字母结尾 | [JavaScript](./src/js.JS73.24907/solution.js) | 入门  |
@@ -527,4 +527,4 @@
 | JS88 | dom节点转成json数据 |  | 困难  |
 | JS89 | 设置标签 |  | 困难  |
 | JS90 | 选择组件 |  | 困难  |
-| JS91 | 简易计算器 |  | 困难  |
+| JS91 | 简易计算器 | [JavaScript](./src/js.JS91.1701511/solution.js) | 困难  |
