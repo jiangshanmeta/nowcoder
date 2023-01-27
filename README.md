@@ -434,7 +434,7 @@
 | NC414 | 小红的最小三角形周长 |  | 较难  |
 | NC415 | 不同的二叉搜索树(二) |  | 中等  |
 
-## JS能力测评 (74/90)
+## JS能力测评 (80/90)
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -445,7 +445,7 @@
 | JS5 | 创建数组 | [JavaScript](./src/js.JS5.2303791/solution.js) | 中等  |
 | JS6 | 判断版本 | [JavaScript](./src/js.JS6.2303793/solution.js) | 中等  |
 | JS7 | 无重复数组 | [JavaScript](./src/js.JS7.2303795/solution.js) | 中等  |
-| JS8 | 数组排序 |  | 中等  |
+| JS8 | 数组排序 | [JavaScript](./src/js.JS8.2303796/solution.js) | 中等  |
 | JS9 | 新数组 | [JavaScript](./src/js.JS9.2303797/solution.js) | 中等  |
 | JS10 | 计数器 | [JavaScript](./src/js.JS10.2303799/solution.js) | 中等  |
 | JS11 | 动态列表渲染 | [JavaScript](./src/js.JS11.2303800/solution.js) | 中等  |
@@ -512,11 +512,11 @@
 | JS73 | 判断是否以元音字母结尾 | [JavaScript](./src/js.JS73.24907/solution.js) | 入门  |
 | JS74 | 获取指定字符串 | [JavaScript](./src/js.JS74.24908/solution.js) | 简单  |
 | JS75 | 判断是否符合指定格式 | [JavaScript](./src/js.JS75.24909/solution.js) | 简单  |
-| JS76 | 判断是否符合USD格式 |  | 中等  |
-| JS77 | 颜色字符串转换 |  | 中等  |
-| JS78 | 将字符串转换为驼峰格式 |  | 中等  |
-| JS79 | 购物车 |  | 困难  |
-| JS80 | 表格排序 |  | 困难  |
+| JS76 | 判断是否符合USD格式 | [JavaScript](./src/js.JS76.24910/solution.js) | 中等  |
+| JS77 | 颜色字符串转换 | [JavaScript](./src/js.JS77.25198/solution.js) | 中等  |
+| JS78 | 将字符串转换为驼峰格式 | [JavaScript](./src/js.JS78.25199/solution.js) | 中等  |
+| JS79 | 购物车 | [JavaScript](./src/js.JS79.163632/solution.js) | 困难  |
+| JS80 | 表格排序 | [JavaScript](./src/js.JS80.180777/solution.js) | 困难  |
 | JS81 | 替换链接 |  | 困难  |
 | JS82 | 倒计时 |  | 中等  |
 | JS83 | 双色球机选一注 |  | 困难  |
