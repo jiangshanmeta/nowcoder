@@ -434,7 +434,7 @@
 | NC414 | 小红的最小三角形周长 |  | 较难  |
 | NC415 | 不同的二叉搜索树(二) |  | 中等  |
 
-## JS能力测评 (80/90)
+## JS能力测评 (84/90)
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -517,10 +517,10 @@
 | JS78 | 将字符串转换为驼峰格式 | [JavaScript](./src/js.JS78.25199/solution.js) | 中等  |
 | JS79 | 购物车 | [JavaScript](./src/js.JS79.163632/solution.js) | 困难  |
 | JS80 | 表格排序 | [JavaScript](./src/js.JS80.180777/solution.js) | 困难  |
-| JS81 | 替换链接 |  | 困难  |
-| JS82 | 倒计时 |  | 中等  |
-| JS83 | 双色球机选一注 |  | 困难  |
-| JS84 | 智能提示 |  | 困难  |
+| JS81 | 替换链接 | [JavaScript](./src/js.JS81.180872/solution.js) | 困难  |
+| JS82 | 倒计时 | [JavaScript](./src/js.JS82.180975/solution.js) | 中等  |
+| JS83 | 双色球机选一注 | [JavaScript](./src/js.JS83.327565/solution.js) | 困难  |
+| JS84 | 智能提示 | [JavaScript](./src/js.JS84.354639/solution.js) | 困难  |
 | JS85 | 文字输出 |  | 中等  |
 | JS86 | 分页 |  | 困难  |
 | JS87 | 移动控制 |  | 困难  |
