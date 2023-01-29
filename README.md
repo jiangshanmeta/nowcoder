@@ -434,7 +434,7 @@
 | NC414 | 小红的最小三角形周长 |  | 较难  |
 | NC415 | 不同的二叉搜索树(二) |  | 中等  |
 
-## JS能力测评 (84/90)
+## JS能力测评 (90/90)
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -521,10 +521,10 @@
 | JS82 | 倒计时 | [JavaScript](./src/js.JS82.180975/solution.js) | 中等  |
 | JS83 | 双色球机选一注 | [JavaScript](./src/js.JS83.327565/solution.js) | 困难  |
 | JS84 | 智能提示 | [JavaScript](./src/js.JS84.354639/solution.js) | 困难  |
-| JS85 | 文字输出 |  | 中等  |
-| JS86 | 分页 |  | 困难  |
-| JS87 | 移动控制 |  | 困难  |
-| JS88 | dom节点转成json数据 |  | 困难  |
-| JS89 | 设置标签 |  | 困难  |
-| JS90 | 选择组件 |  | 困难  |
+| JS85 | 文字输出 | [JavaScript](./src/js.JS85.354768/solution.js) | 中等  |
+| JS86 | 分页 | [JavaScript](./src/js.JS86.1701037/solution.js) | 困难  |
+| JS87 | 移动控制 | [JavaScript](./src/js.JS87.1701112/solution.js) | 困难  |
+| JS88 | dom节点转成json数据 | [JavaScript](./src/js.JS88.1701136/solution.js) | 困难  |
+| JS89 | 设置标签 | [JavaScript](./src/js.JS89.1701436/solution.js) | 困难  |
+| JS90 | 选择组件 | [JavaScript](./src/js.JS90.1701468/solution.js) | 困难  |
 | JS91 | 简易计算器 | [JavaScript](./src/js.JS91.1701511/solution.js) | 困难  |
