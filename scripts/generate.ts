@@ -22,11 +22,13 @@ const answersMap = fileList.reduce<Record<TopicKeys, Record<string, string[]>>>(
 }, {
     algorithm: {},
     js: {},
+    'go-introduction': {},
 });
 
 const topicKeys:TopicKeys[] = [
     'algorithm',
     'js',
+    'go-introduction',
 ];
 
 const mainData = topicKeys.map((topicKey) => {
