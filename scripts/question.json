@@ -3537,5 +3537,329 @@
             "questionUUid": "8237298fd1354cdaabd04796280cc90e",
             "questionId": 1701511
         }
+    ],
+    "go-introduction": [
+        {
+            "difficulty": 1,
+            "questionNo": "GP1",
+            "questionTitle": "go的第一个程序",
+            "questionUUid": "dd0d6482e5f84bb7af8e3e0c3df7f269",
+            "questionId": 2558324
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "GP2",
+            "questionTitle": "小明信息",
+            "questionUUid": "43ccf745188846a688949b91dd9afe4b",
+            "questionId": 2558945
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "GP3",
+            "questionTitle": "个人信息",
+            "questionUUid": "14a427bf7338413a8c7697d037ce7e8f",
+            "questionId": 2564026
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "GP4",
+            "questionTitle": "国家名称",
+            "questionUUid": "9834971abff044db904b3e89313e5614",
+            "questionId": 2558952
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "GP5",
+            "questionTitle": "值和指针",
+            "questionUUid": "632df72cb8934791a3a5f873f6306e47",
+            "questionId": 2563981
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "GP6",
+            "questionTitle": "拼接字符串",
+            "questionUUid": "022b09f2616a4a69b5930de5bf5151bd",
+            "questionId": 2559379
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "GP7",
+            "questionTitle": "字符数量",
+            "questionUUid": "66f61cc68c2248d08673f2a8df658b94",
+            "questionId": 2559381
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "GP8",
+            "questionTitle": "回文数",
+            "questionUUid": "572280082f414dde9207e11790e823d5",
+            "questionId": 2562806
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "GP9",
+            "questionTitle": "格式化字符串",
+            "questionUUid": "00d2408290a94bd5a70965ee0aee2083",
+            "questionId": 2558985
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "GP10",
+            "questionTitle": "字符求和",
+            "questionUUid": "79426fd6cf9c49b4828c55d988838372",
+            "questionId": 2559382
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "GP11",
+            "questionTitle": "长方形的周长",
+            "questionUUid": "f8921f56e2d74d0abc587592c3062639",
+            "questionId": 2559039
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "GP12",
+            "questionTitle": "温度转换",
+            "questionUUid": "3119d996ae674a9fa4649532f76b5d4e",
+            "questionId": 2559253
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "GP13",
+            "questionTitle": "工程时间",
+            "questionUUid": "9b39f10933f146faa193a4cb9654b067",
+            "questionId": 2559269
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "GP14",
+            "questionTitle": "器材采购",
+            "questionUUid": "f6e57de3f6b24220ae4e79ed46ba7ce1",
+            "questionId": 2559287
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "GP15",
+            "questionTitle": "逻辑运算",
+            "questionUUid": "00354759fc8049fabf116c5d74a91805",
+            "questionId": 2559297
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "GP16",
+            "questionTitle": "位运算",
+            "questionUUid": "c4a2ac91b0bf41529c5be9053f7ba0b9",
+            "questionId": 2559304
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "GP17",
+            "questionTitle": "联谊活动",
+            "questionUUid": "ae8ba287c81d4a2a9412467322464bf2",
+            "questionId": 2559314
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "GP18",
+            "questionTitle": "保龄球",
+            "questionUUid": "94aa1e8aec474a7093a09a3495dbd561",
+            "questionId": 2564110
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "GP19",
+            "questionTitle": "创建切片",
+            "questionUUid": "0ca84c08e2874e31983eb61875158099",
+            "questionId": 2559350
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "GP20",
+            "questionTitle": "切片复制",
+            "questionUUid": "007731bde92a4291a2fe10ef2bc57cea",
+            "questionId": 2559352
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "GP21",
+            "questionTitle": "出队",
+            "questionUUid": "fc88ae20a01e4ff9be14927c53dd6b8a",
+            "questionId": 2559358
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "GP22",
+            "questionTitle": "评委打分",
+            "questionUUid": "8255c55b41744862bc1cde7ce5b62c42",
+            "questionId": 2559362
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "GP23",
+            "questionTitle": "调整顺序",
+            "questionUUid": "4a504bffaff74847930c0145886e98ca",
+            "questionId": 2559364
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "GP24",
+            "questionTitle": "判断两个切片是否有相同的元素",
+            "questionUUid": "9fb825cc67514400ae6ba7d72db3541c",
+            "questionId": 2562785
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "GP25",
+            "questionTitle": "合并有序数组",
+            "questionUUid": "994a90bc0e3c4e8a9650b7e55ebd8590",
+            "questionId": 2562801
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "GP26",
+            "questionTitle": "置衣柜",
+            "questionUUid": "3f9beccc1cc443afa4c32dde9e23bb2e",
+            "questionId": 2564112
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "GP27",
+            "questionTitle": "成绩表",
+            "questionUUid": "0efdfc6bced2443c81857324b6b2f0ad",
+            "questionId": 2559371
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "GP28",
+            "questionTitle": "单词字符",
+            "questionUUid": "a64958131b094faba2adf52a4b131848",
+            "questionId": 2559377
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "GP29",
+            "questionTitle": "字符串构成",
+            "questionUUid": "4b05c1f9f0094f86aa14649485e9e9eb",
+            "questionId": 2559448
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "GP30",
+            "questionTitle": "不重复的数",
+            "questionUUid": "b17a4e37d40549f3ac5ba9ac643d51a5",
+            "questionId": 2562781
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "GP31",
+            "questionTitle": "年龄分段",
+            "questionUUid": "db550f43f4d244b2ad9f630880f756b5",
+            "questionId": 2559327
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "GP32",
+            "questionTitle": "成绩判定",
+            "questionUUid": "b2b3fa396af04925adb5f43653da267c",
+            "questionId": 2559336
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "GP33",
+            "questionTitle": "游乐园门票",
+            "questionUUid": "c48714d088954151b0c69ff370e4aee5",
+            "questionId": 2563998
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "GP34",
+            "questionTitle": "推箱子",
+            "questionUUid": "2b11fcf1926744889a71e72d1fbf7f89",
+            "questionId": 2564099
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "GP35",
+            "questionTitle": "乘法口诀表",
+            "questionUUid": "d4e76eafc39148c3a27af51b4cf2aa5c",
+            "questionId": 2559331
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "GP36",
+            "questionTitle": "坐标转换",
+            "questionUUid": "948b9ca358c146dabe3e7d30b1d5e34c",
+            "questionId": 2559340
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "GP37",
+            "questionTitle": "质量检查",
+            "questionUUid": "7526b138abee44be927a535787172b8b",
+            "questionId": 2564105
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "GP38",
+            "questionTitle": "团队闯关",
+            "questionUUid": "601a623f5cdb405485fc9ca618e3534d",
+            "questionId": 2564109
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "GP39",
+            "questionTitle": "数字的阶乘",
+            "questionUUid": "c44b01f2f525477fb9032c82e8654066",
+            "questionId": 2563814
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "GP40",
+            "questionTitle": "绝对值",
+            "questionUUid": "288815f39cd54b908eed6eae65d69f84",
+            "questionId": 2563841
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "GP41",
+            "questionTitle": "加减乘除",
+            "questionUUid": "5a21787ce920496a9a165729f5367bd6",
+            "questionId": 2563921
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "GP42",
+            "questionTitle": "学生信息II",
+            "questionUUid": "8db171fe5e1542f4a8beaf7268067548",
+            "questionId": 2563265
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "GP43",
+            "questionTitle": "学生信息III",
+            "questionUUid": "e385b75257c64296bffa415d3c05fbf0",
+            "questionId": 2563530
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "GP44",
+            "questionTitle": "动物和老虎",
+            "questionUUid": "1259760c72514e80967e203aa8ce2f81",
+            "questionId": 2563542
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "GP45",
+            "questionTitle": "网络延迟",
+            "questionUUid": "33dffe16f4554089aa5841b1c49a2bd0",
+            "questionId": 2563946
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "GP46",
+            "questionTitle": "体温异常",
+            "questionUUid": "9baeccf93a58410f9325d70300ce000f",
+            "questionId": 2563964
+        }
     ]
 }
