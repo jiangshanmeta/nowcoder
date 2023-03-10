@@ -529,7 +529,7 @@
 | JS90 | 选择组件 | [JavaScript](./src/js.JS90.1701468/solution.js) | 困难  |
 | JS91 | 简易计算器 | [JavaScript](./src/js.JS91.1701511/solution.js) | 困难  |
 
-## Go语言入门 (4/46)
+## Go语言入门 (12/46)
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -543,14 +543,14 @@
 | GP8 | 回文数 |  | 入门  |
 | GP9 | 格式化字符串 |  | 入门  |
 | GP10 | 字符求和 |  | 中等  |
-| GP11 | 长方形的周长 |  | 入门  |
-| GP12 | 温度转换 |  | 入门  |
-| GP13 | 工程时间 |  | 入门  |
-| GP14 | 器材采购 |  | 入门  |
-| GP15 | 逻辑运算 |  | 中等  |
-| GP16 | 位运算 |  | 入门  |
-| GP17 | 联谊活动 |  | 入门  |
-| GP18 | 保龄球 |  | 入门  |
+| GP11 | 长方形的周长 | [Go](./src/go-introduction.GP11.2559039/solution.go) | 入门  |
+| GP12 | 温度转换 | [Go](./src/go-introduction.GP12.2559253/solution.go) | 入门  |
+| GP13 | 工程时间 | [Go](./src/go-introduction.GP13.2559269/solution.go) | 入门  |
+| GP14 | 器材采购 | [Go](./src/go-introduction.GP14.2559287/solution.go) | 入门  |
+| GP15 | 逻辑运算 | [Go](./src/go-introduction.GP15.2559297/solution.go) | 中等  |
+| GP16 | 位运算 | [Go](./src/go-introduction.GP16.2559304/solution.go) | 入门  |
+| GP17 | 联谊活动 | [Go](./src/go-introduction.GP17.2559314/solution.go) | 入门  |
+| GP18 | 保龄球 | [Go](./src/go-introduction.GP18.2564110/solution.go) | 入门  |
 | GP19 | 创建切片 |  | 中等  |
 | GP20 | 切片复制 |  | 入门  |
 | GP21 | 出队 |  | 中等  |
