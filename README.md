@@ -529,7 +529,7 @@
 | JS90 | 选择组件 | [JavaScript](./src/js.JS90.1701468/solution.js) | 困难  |
 | JS91 | 简易计算器 | [JavaScript](./src/js.JS91.1701511/solution.js) | 困难  |
 
-## Go语言入门 (12/46)
+## Go语言入门 (17/46)
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -563,12 +563,12 @@
 | GP28 | 单词字符 |  | 入门  |
 | GP29 | 字符串构成 |  | 入门  |
 | GP30 | 不重复的数 |  | 入门  |
-| GP31 | 年龄分段 |  | 入门  |
-| GP32 | 成绩判定 |  | 入门  |
-| GP33 | 游乐园门票 |  | 入门  |
-| GP34 | 推箱子 |  | 入门  |
+| GP31 | 年龄分段 | [Go](./src/go-introduction.GP31.2559327/solution.go) | 入门  |
+| GP32 | 成绩判定 | [Go](./src/go-introduction.GP32.2559336/solution.go) | 入门  |
+| GP33 | 游乐园门票 | [Go](./src/go-introduction.GP33.2563998/solution.go) | 入门  |
+| GP34 | 推箱子 | [Go](./src/go-introduction.GP34.2564099/solution.go) | 入门  |
 | GP35 | 乘法口诀表 |  | 入门  |
-| GP36 | 坐标转换 |  | 入门  |
+| GP36 | 坐标转换 | [Go](./src/go-introduction.GP36.2559340/solution.go) | 入门  |
 | GP37 | 质量检查 |  | 入门  |
 | GP38 | 团队闯关 |  | 入门  |
 | GP39 | 数字的阶乘 |  | 入门  |
