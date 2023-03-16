@@ -529,7 +529,7 @@
 | JS90 | 选择组件 | [JavaScript](./src/js.JS90.1701468/solution.js) | 困难  |
 | JS91 | 简易计算器 | [JavaScript](./src/js.JS91.1701511/solution.js) | 困难  |
 
-## Go语言入门 (17/46)
+## Go语言入门 (23/46)
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -569,12 +569,12 @@
 | GP34 | 推箱子 | [Go](./src/go-introduction.GP34.2564099/solution.go) | 入门  |
 | GP35 | 乘法口诀表 |  | 入门  |
 | GP36 | 坐标转换 | [Go](./src/go-introduction.GP36.2559340/solution.go) | 入门  |
-| GP37 | 质量检查 |  | 入门  |
-| GP38 | 团队闯关 |  | 入门  |
-| GP39 | 数字的阶乘 |  | 入门  |
-| GP40 | 绝对值 |  | 入门  |
-| GP41 | 加减乘除 |  | 入门  |
-| GP42 | 学生信息II |  | 入门  |
+| GP37 | 质量检查 | [Go](./src/go-introduction.GP37.2564105/solution.go) | 入门  |
+| GP38 | 团队闯关 | [Go](./src/go-introduction.GP38.2564109/solution.go) | 入门  |
+| GP39 | 数字的阶乘 | [Go](./src/go-introduction.GP39.2563814/solution.go) | 入门  |
+| GP40 | 绝对值 | [Go](./src/go-introduction.GP40.2563841/solution.go) | 入门  |
+| GP41 | 加减乘除 | [Go](./src/go-introduction.GP41.2563921/solution.go) | 入门  |
+| GP42 | 学生信息II | [Go](./src/go-introduction.GP42.2563265/solution.go) | 入门  |
 | GP43 | 学生信息III |  | 入门  |
 | GP44 | 动物和老虎 |  | 中等  |
 | GP45 | 网络延迟 |  | 入门  |
