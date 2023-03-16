@@ -529,7 +529,7 @@
 | JS90 | 选择组件 | [JavaScript](./src/js.JS90.1701468/solution.js) | 困难  |
 | JS91 | 简易计算器 | [JavaScript](./src/js.JS91.1701511/solution.js) | 困难  |
 
-## Go语言入门 (23/46)
+## Go语言入门 (29/46)
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -537,7 +537,7 @@
 | GP2 | 小明信息 | [Go](./src/go-introduction.GP2.2558945/solution.go) | 入门  |
 | GP3 | 个人信息 | [Go](./src/go-introduction.GP3.2564026/solution.go) | 入门  |
 | GP4 | 国家名称 | [Go](./src/go-introduction.GP4.2558952/solution.go) | 入门  |
-| GP5 | 值和指针 |  | 入门  |
+| GP5 | 值和指针 | [Go](./src/go-introduction.GP5.2563981/solution.go) | 入门  |
 | GP6 | 拼接字符串 |  | 入门  |
 | GP7 | 字符数量 |  | 入门  |
 | GP8 | 回文数 |  | 入门  |
@@ -551,10 +551,10 @@
 | GP16 | 位运算 | [Go](./src/go-introduction.GP16.2559304/solution.go) | 入门  |
 | GP17 | 联谊活动 | [Go](./src/go-introduction.GP17.2559314/solution.go) | 入门  |
 | GP18 | 保龄球 | [Go](./src/go-introduction.GP18.2564110/solution.go) | 入门  |
-| GP19 | 创建切片 |  | 中等  |
-| GP20 | 切片复制 |  | 入门  |
-| GP21 | 出队 |  | 中等  |
-| GP22 | 评委打分 |  | 入门  |
+| GP19 | 创建切片 | [Go](./src/go-introduction.GP19.2559350/solution.go) | 中等  |
+| GP20 | 切片复制 | [Go](./src/go-introduction.GP20.2559352/solution.go) | 入门  |
+| GP21 | 出队 | [Go](./src/go-introduction.GP21.2559358/solution.go) | 中等  |
+| GP22 | 评委打分 | [Go](./src/go-introduction.GP22.2559362/solution.go) | 入门  |
 | GP23 | 调整顺序 |  | 入门  |
 | GP24 | 判断两个切片是否有相同的元素 |  | 入门  |
 | GP25 | 合并有序数组 |  | 入门  |
@@ -575,7 +575,7 @@
 | GP40 | 绝对值 | [Go](./src/go-introduction.GP40.2563841/solution.go) | 入门  |
 | GP41 | 加减乘除 | [Go](./src/go-introduction.GP41.2563921/solution.go) | 入门  |
 | GP42 | 学生信息II | [Go](./src/go-introduction.GP42.2563265/solution.go) | 入门  |
-| GP43 | 学生信息III |  | 入门  |
+| GP43 | 学生信息III | [Go](./src/go-introduction.GP43.2563530/solution.go) | 入门  |
 | GP44 | 动物和老虎 |  | 中等  |
 | GP45 | 网络延迟 |  | 入门  |
 | GP46 | 体温异常 |  | 入门  |
