@@ -529,7 +529,7 @@
 | JS90 | 选择组件 | [JavaScript](./src/js.JS90.1701468/solution.js) | 困难  |
 | JS91 | 简易计算器 | [JavaScript](./src/js.JS91.1701511/solution.js) | 困难  |
 
-## Go语言入门 (29/46)
+## Go语言入门 (33/46)
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -556,11 +556,11 @@
 | GP21 | 出队 | [Go](./src/go-introduction.GP21.2559358/solution.go) | 中等  |
 | GP22 | 评委打分 | [Go](./src/go-introduction.GP22.2559362/solution.go) | 入门  |
 | GP23 | 调整顺序 |  | 入门  |
-| GP24 | 判断两个切片是否有相同的元素 |  | 入门  |
-| GP25 | 合并有序数组 |  | 入门  |
+| GP24 | 判断两个切片是否有相同的元素 | [Go](./src/go-introduction.GP24.2562785/solution.go) | 入门  |
+| GP25 | 合并有序数组 | [Go](./src/go-introduction.GP25.2562801/solution.go) | 入门  |
 | GP26 | 置衣柜 |  | 入门  |
-| GP27 | 成绩表 |  | 入门  |
-| GP28 | 单词字符 |  | 入门  |
+| GP27 | 成绩表 | [Go](./src/go-introduction.GP27.2559371/solution.go) | 入门  |
+| GP28 | 单词字符 | [Go](./src/go-introduction.GP28.2559377/solution.go) | 入门  |
 | GP29 | 字符串构成 |  | 入门  |
 | GP30 | 不重复的数 |  | 入门  |
 | GP31 | 年龄分段 | [Go](./src/go-introduction.GP31.2559327/solution.go) | 入门  |
