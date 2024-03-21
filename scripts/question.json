@@ -3861,5 +3861,357 @@
             "questionUUid": "9baeccf93a58410f9325d70300ce000f",
             "questionId": 2563964
         }
+    ],
+    "java": [
+        {
+            "difficulty": 1,
+            "questionNo": "JAVA1",
+            "questionTitle": "类型转换",
+            "questionUUid": "0540ee3987b64bd7bb93adb5bd0e35d4",
+            "questionId": 2220136
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "JAVA2",
+            "questionTitle": "简单运算",
+            "questionUUid": "6817945637dd4a31811d38313653e967",
+            "questionId": 2128903
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "JAVA3",
+            "questionTitle": "四舍五入",
+            "questionUUid": "cae89de6292b4084acb93659353260e0",
+            "questionId": 2123514
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "JAVA4",
+            "questionTitle": "交换变量值",
+            "questionUUid": "bd243c9bef70492f91959cc5556546a8",
+            "questionId": 2109099
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "JAVA5",
+            "questionTitle": "计算商场折扣",
+            "questionUUid": "cf4dcda7bf974f83afe38af4b14946a7",
+            "questionId": 2134195
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "JAVA6",
+            "questionTitle": "判断体重指数",
+            "questionUUid": "688f96cc38bb4a76996698d2f987b1b5",
+            "questionId": 2109873
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "JAVA7",
+            "questionTitle": "判断学生成绩等级",
+            "questionUUid": "caef110bb06149119672a4dd2bc5d4ad",
+            "questionId": 2110387
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "JAVA8",
+            "questionTitle": "邮箱验证",
+            "questionUUid": "8f908eeee4aa412ca88304f0acbaa1f9",
+            "questionId": 2115629
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "JAVA9",
+            "questionTitle": "数列求和",
+            "questionUUid": "6893484c04c24bfca1f606b1823a468d",
+            "questionId": 2137782
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "JAVA10",
+            "questionTitle": "统计输入正数个数",
+            "questionUUid": "3266386e460a4e219d6b7d0bed2065b9",
+            "questionId": 2136367
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "JAVA11",
+            "questionTitle": "求最小公倍数",
+            "questionUUid": "feb002886427421cb1ad3690f03c4242",
+            "questionId": 2133839
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "JAVA12",
+            "questionTitle": "小球走过路程计算",
+            "questionUUid": "ddbb7021c0a7452f9044564234616913",
+            "questionId": 2117499
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "JAVA13",
+            "questionTitle": "求平均数",
+            "questionUUid": "41e59cee1221424bb9291435aae79ae9",
+            "questionId": 2111208
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "JAVA14",
+            "questionTitle": "判断质数",
+            "questionUUid": "4d2a100c2e544f56ac1ad17e9ffa107d",
+            "questionId": 2110879
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "JAVA15",
+            "questionTitle": "计算整数位数",
+            "questionUUid": "07232b8720614f7ea185391d1a7206eb",
+            "questionId": 2110491
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "JAVA16",
+            "questionTitle": "数组遍历",
+            "questionUUid": "0f8219cb6f6e4e99a1bb0e868e51d60a",
+            "questionId": 2123254
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "JAVA17",
+            "questionTitle": "数组倒转",
+            "questionUUid": "3a90caee736a45e1ad70b1d4105dec5f",
+            "questionId": 2119568
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "JAVA18",
+            "questionTitle": "二维数组求和",
+            "questionUUid": "01b9b232b8894e83b1740c5513fa9488",
+            "questionId": 2113780
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "JAVA19",
+            "questionTitle": "修改Data类的定义",
+            "questionUUid": "bb89f943588c4a248675881f2e5cc761",
+            "questionId": 2114441
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "JAVA20",
+            "questionTitle": "验证年龄",
+            "questionUUid": "fdb94493ebc34eef8d9b01dea47685b9",
+            "questionId": 2109907
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "JAVA21",
+            "questionTitle": "补全构造方法",
+            "questionUUid": "d3fa8fb4caf449b0809528fe569dbbc6",
+            "questionId": 2113522
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "JAVA22",
+            "questionTitle": "重写计算逻辑",
+            "questionUUid": "af4fd657b63241a3a0613d5c487a252f",
+            "questionId": 2111639
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "JAVA23",
+            "questionTitle": "定义打印方法",
+            "questionUUid": "50b50ae39d65415a9fd70601d711e5af",
+            "questionId": 2114415
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JAVA24",
+            "questionTitle": "类型判断",
+            "questionUUid": "97223208ca954e67832da716b46e5d72",
+            "questionId": 2113902
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "JAVA25",
+            "questionTitle": "实现抽象方法",
+            "questionUUid": "e5e9db1a526e47968e68243af61a9502",
+            "questionId": 2115071
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "JAVA26",
+            "questionTitle": "实现接口",
+            "questionUUid": "b47b04275f7e4fa588221f03b2527d4d",
+            "questionId": 2114729
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "JAVA27",
+            "questionTitle": "重写父类方法",
+            "questionUUid": "aec55d55435b4af69e625d7072af3fa1",
+            "questionId": 2116954
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JAVA28",
+            "questionTitle": "创建单例对象",
+            "questionUUid": "9b316cd2d6264776918bc4bc31f37aec",
+            "questionId": 2116224
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "JAVA29",
+            "questionTitle": "动态字符串",
+            "questionUUid": "e2c51a6f126b41f9be403376c7adea15",
+            "questionId": 2116153
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "JAVA30",
+            "questionTitle": "判断字符串中字母出现次数",
+            "questionUUid": "83350872bdb5406fa706895d5efb1c55",
+            "questionId": 2114039
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "JAVA31",
+            "questionTitle": "十进制数转二进制数",
+            "questionUUid": "90d2de77e05e497eacc85e6b50272900",
+            "questionId": 2136892
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "JAVA33",
+            "questionTitle": "掷骰子游戏",
+            "questionUUid": "7b543bee3dc14c49a7b340b2e04209ce",
+            "questionId": 2132905
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "JAVA34",
+            "questionTitle": "求绝对值，平方根，对数，正弦值",
+            "questionUUid": "f8dbe57b29d941c4a94b78fb14f62cda",
+            "questionId": 2117801
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "JAVA35",
+            "questionTitle": "输出某一年的各个月份的天数",
+            "questionUUid": "6cc6d87805cc4e32866be0541998d8c9",
+            "questionId": 2132783
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JAVA36",
+            "questionTitle": "日期换算",
+            "questionUUid": "08f8a66cb5584268a78ecca2749a2da5",
+            "questionId": 2120919
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "JAVA37",
+            "questionTitle": "判断学生成绩",
+            "questionUUid": "a35cbafbec10449f8a576e822430a3ab",
+            "questionId": 2134590
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "JAVA38",
+            "questionTitle": "字符串去重",
+            "questionUUid": "f105c85ed9d44469986d56c27920639e",
+            "questionId": 2128755
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "JAVA39",
+            "questionTitle": "集合遍历",
+            "questionUUid": "e34b7132f9c24297ac9bcb0b7f2ea472",
+            "questionId": 2131146
+        },
+        {
+            "difficulty": 1,
+            "questionNo": "JAVA40",
+            "questionTitle": "排队系统",
+            "questionUUid": "ce3eb547dfb1418aa17ad2f2b8c4e07a",
+            "questionId": 2137529
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "JAVA41",
+            "questionTitle": "首尾交替出队",
+            "questionUUid": "4acc8bb985b84b68b935ce26c8f4d1b9",
+            "questionId": 2133506
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JAVA42",
+            "questionTitle": "统计一句话中重复单词的个数",
+            "questionUUid": "2128e598b5a5407195c31175b5b33360",
+            "questionId": 2133514
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "JAVA43",
+            "questionTitle": "map简单应用",
+            "questionUUid": "7a47e465315c40848d5daba676f9ac29",
+            "questionId": 2117897
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "JAVA44",
+            "questionTitle": "集合排序",
+            "questionUUid": "4d12899bb255459bbf2b3635b3d32817",
+            "questionId": 2120080
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "JAVA45",
+            "questionTitle": "判断各类型字符个数",
+            "questionUUid": "4ccc155e474e4d4c83cfde116dcf2218",
+            "questionId": 2122549
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JAVA46",
+            "questionTitle": "编写个人所得税计算程序",
+            "questionUUid": "7a1f759199654f9abc69a3ef2f54d451",
+            "questionId": 2138213
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JAVA47",
+            "questionTitle": "记录点赞用户",
+            "questionUUid": "19a766a67cdc4eb0a354d70597cf008b",
+            "questionId": 2134207
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JAVA48",
+            "questionTitle": "回文数判断",
+            "questionUUid": "b685d58f237c4214ada27161304a74a3",
+            "questionId": 2132150
+        },
+        {
+            "difficulty": 2,
+            "questionNo": "JAVA49",
+            "questionTitle": "判断素数个数",
+            "questionUUid": "c6ad83181a17408eb7605d51a251dd9a",
+            "questionId": 2127537
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JAVA50",
+            "questionTitle": "根据周长求面积",
+            "questionUUid": "f67cf4ac46dc45769aea8d94e0e2f6bd",
+            "questionId": 2117845
+        },
+        {
+            "difficulty": 3,
+            "questionNo": "JAVA51",
+            "questionTitle": "冒泡排序",
+            "questionUUid": "83ef53227d654df28c18fd6a377e8fee",
+            "questionId": 2111797
+        }
     ]
 }

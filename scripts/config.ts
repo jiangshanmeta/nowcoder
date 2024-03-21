@@ -11,6 +11,10 @@ export const languages = [
         label: 'Go',
         ext: 'go',
     },
+    {
+        label: 'Java',
+        ext: 'java',
+    },
 ];
 
 export const difficultyMap = {
@@ -25,18 +29,20 @@ export const topIdKeyMap = {
     196: 'algorithm',
     271: 'js',
     317: 'go-introduction',
+    220: 'java'
 } as const;
 
 type TopIdKeyMap = typeof topIdKeyMap
 export type TopicIds = keyof TopIdKeyMap
 export type TopicKeys = TopIdKeyMap[keyof TopIdKeyMap]
 
-export const topicKeyLabelMap:Record<TopicKeys, string> = {
+export const topicKeyLabelMap: Record<TopicKeys, string> = {
     algorithm: '算法',
     js: 'JS能力测评',
     'go-introduction': 'Go语言入门',
+    'java': 'Java'
 };
 
-export function isTopicId (x:number): x is TopicIds {
+export function isTopicId(x: number): x is TopicIds {
     return x in topIdKeyMap;
 }

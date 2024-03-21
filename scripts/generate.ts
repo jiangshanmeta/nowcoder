@@ -23,16 +23,18 @@ const answersMap = fileList.reduce<Record<TopicKeys, Record<string, string[]>>>(
     algorithm: {},
     js: {},
     'go-introduction': {},
+    'java': {},
 });
-type isNever<T> = [T] extends [never]?true:false;
-type Permutation<T extends string, R extends string[] = [], K = T > = isNever<T> extends true?
-  R:
-  K extends T? Permutation<Exclude<T, K>, [...R, K]>:R
+type isNever<T> = [T] extends [never] ? true : false;
+type Permutation<T extends string, R extends string[] = [], K = T> = isNever<T> extends true ?
+    R :
+    K extends T ? Permutation<Exclude<T, K>, [...R, K]> : R
 
-const topicKeys:Permutation<TopicKeys> = [
+const topicKeys: Permutation<TopicKeys> = [
     'algorithm',
     'js',
     'go-introduction',
+    'java'
 ];
 
 const mainData = topicKeys.map((topicKey) => {
