@@ -580,7 +580,7 @@
 | GP45 | 网络延迟 |  | 入门  |
 | GP46 | 体温异常 |  | 入门  |
 
-## Java (4/50)
+## Java (9/50)
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -596,11 +596,11 @@
 | JAVA10 | 统计输入正数个数 | [Java](./src/java.JAVA10.2136367/solution.java) | 入门  |
 | JAVA11 | 求最小公倍数 | [Java](./src/java.JAVA11.2133839/solution.java) | 简单  |
 | JAVA12 | 小球走过路程计算 | [Java](./src/java.JAVA12.2117499/solution.java) | 简单  |
-| JAVA13 | 求平均数 |  | 简单  |
-| JAVA14 | 判断质数 |  | 简单  |
-| JAVA15 | 计算整数位数 |  | 简单  |
-| JAVA16 | 数组遍历 |  | 入门  |
-| JAVA17 | 数组倒转 |  | 简单  |
+| JAVA13 | 求平均数 | [Java](./src/java.JAVA13.2111208/solution.java) | 简单  |
+| JAVA14 | 判断质数 | [Java](./src/java.JAVA14.2110879/solution.java) | 简单  |
+| JAVA15 | 计算整数位数 | [Java](./src/java.JAVA15.2110491/solution.java) | 简单  |
+| JAVA16 | 数组遍历 | [Java](./src/java.JAVA16.2123254/solution.java) | 入门  |
+| JAVA17 | 数组倒转 | [Java](./src/java.JAVA17.2119568/solution.java) | 简单  |
 | JAVA18 | 二维数组求和 |  | 简单  |
 | JAVA19 | 修改Data类的定义 |  | 入门  |
 | JAVA20 | 验证年龄 |  | 入门  |
