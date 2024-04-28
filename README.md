@@ -580,12 +580,12 @@
 | GP45 | 网络延迟 |  | 入门  |
 | GP46 | 体温异常 |  | 入门  |
 
-## Java (9/50)
+## Java (14/50)
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
 | JAVA1 | 类型转换 | [Java](./src/java.JAVA1.2220136/solution.java) | 入门  |
-| JAVA2 | 简单运算 |  | 入门  |
+| JAVA2 | 简单运算 | [Java](./src/java.JAVA2.2128903/solution.java) | 入门  |
 | JAVA3 | 四舍五入 |  | 入门  |
 | JAVA4 | 交换变量值 |  | 入门  |
 | JAVA5 | 计算商场折扣 |  | 入门  |
@@ -601,10 +601,10 @@
 | JAVA15 | 计算整数位数 | [Java](./src/java.JAVA15.2110491/solution.java) | 简单  |
 | JAVA16 | 数组遍历 | [Java](./src/java.JAVA16.2123254/solution.java) | 入门  |
 | JAVA17 | 数组倒转 | [Java](./src/java.JAVA17.2119568/solution.java) | 简单  |
-| JAVA18 | 二维数组求和 |  | 简单  |
-| JAVA19 | 修改Data类的定义 |  | 入门  |
-| JAVA20 | 验证年龄 |  | 入门  |
-| JAVA21 | 补全构造方法 |  | 简单  |
+| JAVA18 | 二维数组求和 | [Java](./src/java.JAVA18.2113780/solution.java) | 简单  |
+| JAVA19 | 修改Data类的定义 | [Java](./src/java.JAVA19.2114441/solution.java) | 入门  |
+| JAVA20 | 验证年龄 | [Java](./src/java.JAVA20.2109907/solution.java) | 入门  |
+| JAVA21 | 补全构造方法 | [Java](./src/java.JAVA21.2113522/solution.java) | 简单  |
 | JAVA22 | 重写计算逻辑 |  | 简单  |
 | JAVA23 | 定义打印方法 |  | 简单  |
 | JAVA24 | 类型判断 |  | 中等  |
