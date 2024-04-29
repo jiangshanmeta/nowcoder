@@ -580,7 +580,7 @@
 | GP45 | 网络延迟 |  | 入门  |
 | GP46 | 体温异常 |  | 入门  |
 
-## Java (14/50)
+## Java (19/50)
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -605,11 +605,11 @@
 | JAVA19 | 修改Data类的定义 | [Java](./src/java.JAVA19.2114441/solution.java) | 入门  |
 | JAVA20 | 验证年龄 | [Java](./src/java.JAVA20.2109907/solution.java) | 入门  |
 | JAVA21 | 补全构造方法 | [Java](./src/java.JAVA21.2113522/solution.java) | 简单  |
-| JAVA22 | 重写计算逻辑 |  | 简单  |
-| JAVA23 | 定义打印方法 |  | 简单  |
-| JAVA24 | 类型判断 |  | 中等  |
-| JAVA25 | 实现抽象方法 |  | 简单  |
-| JAVA26 | 实现接口 |  | 入门  |
+| JAVA22 | 重写计算逻辑 | [Java](./src/java.JAVA22.2111639/solution.java) | 简单  |
+| JAVA23 | 定义打印方法 | [Java](./src/java.JAVA23.2114415/solution.java) | 简单  |
+| JAVA24 | 类型判断 | [Java](./src/java.JAVA24.2113902/solution.java) | 中等  |
+| JAVA25 | 实现抽象方法 | [Java](./src/java.JAVA25.2115071/solution.java) | 简单  |
+| JAVA26 | 实现接口 | [Java](./src/java.JAVA26.2114729/solution.java) | 入门  |
 | JAVA27 | 重写父类方法 |  | 简单  |
 | JAVA28 | 创建单例对象 |  | 中等  |
 | JAVA29 | 动态字符串 |  | 简单  |
