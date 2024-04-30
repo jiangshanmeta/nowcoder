@@ -580,13 +580,13 @@
 | GP45 | 网络延迟 |  | 入门  |
 | GP46 | 体温异常 |  | 入门  |
 
-## Java (19/50)
+## Java (24/50)
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
 | JAVA1 | 类型转换 | [Java](./src/java.JAVA1.2220136/solution.java) | 入门  |
 | JAVA2 | 简单运算 | [Java](./src/java.JAVA2.2128903/solution.java) | 入门  |
-| JAVA3 | 四舍五入 |  | 入门  |
+| JAVA3 | 四舍五入 | [Java](./src/java.JAVA3.2123514/solution.java) | 入门  |
 | JAVA4 | 交换变量值 |  | 入门  |
 | JAVA5 | 计算商场折扣 |  | 入门  |
 | JAVA6 | 判断体重指数 |  | 简单  |
@@ -610,10 +610,10 @@
 | JAVA24 | 类型判断 | [Java](./src/java.JAVA24.2113902/solution.java) | 中等  |
 | JAVA25 | 实现抽象方法 | [Java](./src/java.JAVA25.2115071/solution.java) | 简单  |
 | JAVA26 | 实现接口 | [Java](./src/java.JAVA26.2114729/solution.java) | 入门  |
-| JAVA27 | 重写父类方法 |  | 简单  |
-| JAVA28 | 创建单例对象 |  | 中等  |
-| JAVA29 | 动态字符串 |  | 简单  |
-| JAVA30 | 判断字符串中字母出现次数 |  | 简单  |
+| JAVA27 | 重写父类方法 | [Java](./src/java.JAVA27.2116954/solution.java) | 简单  |
+| JAVA28 | 创建单例对象 | [Java](./src/java.JAVA28.2116224/solution.java) | 中等  |
+| JAVA29 | 动态字符串 | [Java](./src/java.JAVA29.2116153/solution.java) | 简单  |
+| JAVA30 | 判断字符串中字母出现次数 | [Java](./src/java.JAVA30.2114039/solution.java) | 简单  |
 | JAVA31 | 十进制数转二进制数 |  | 入门  |
 | JAVA33 | 掷骰子游戏 |  | 简单  |
 | JAVA34 | 求绝对值，平方根，对数，正弦值 |  | 入门  |
