@@ -580,7 +580,7 @@
 | GP45 | 网络延迟 |  | 入门  |
 | GP46 | 体温异常 |  | 入门  |
 
-## Java (24/50)
+## Java (29/50)
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -614,11 +614,11 @@
 | JAVA28 | 创建单例对象 | [Java](./src/java.JAVA28.2116224/solution.java) | 中等  |
 | JAVA29 | 动态字符串 | [Java](./src/java.JAVA29.2116153/solution.java) | 简单  |
 | JAVA30 | 判断字符串中字母出现次数 | [Java](./src/java.JAVA30.2114039/solution.java) | 简单  |
-| JAVA31 | 十进制数转二进制数 |  | 入门  |
-| JAVA33 | 掷骰子游戏 |  | 简单  |
-| JAVA34 | 求绝对值，平方根，对数，正弦值 |  | 入门  |
-| JAVA35 | 输出某一年的各个月份的天数 |  | 简单  |
-| JAVA36 | 日期换算 |  | 中等  |
+| JAVA31 | 十进制数转二进制数 | [Java](./src/java.JAVA31.2136892/solution.java) | 入门  |
+| JAVA33 | 掷骰子游戏 | [Java](./src/java.JAVA33.2132905/solution.java) | 简单  |
+| JAVA34 | 求绝对值，平方根，对数，正弦值 | [Java](./src/java.JAVA34.2117801/solution.java) | 入门  |
+| JAVA35 | 输出某一年的各个月份的天数 | [Java](./src/java.JAVA35.2132783/solution.java) | 简单  |
+| JAVA36 | 日期换算 | [Java](./src/java.JAVA36.2120919/solution.java) | 中等  |
 | JAVA37 | 判断学生成绩 |  | 简单  |
 | JAVA38 | 字符串去重 |  | 简单  |
 | JAVA39 | 集合遍历 |  | 入门  |
