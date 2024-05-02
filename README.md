@@ -580,14 +580,14 @@
 | GP45 | 网络延迟 |  | 入门  |
 | GP46 | 体温异常 |  | 入门  |
 
-## Java (29/50)
+## Java (34/50)
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
 | JAVA1 | 类型转换 | [Java](./src/java.JAVA1.2220136/solution.java) | 入门  |
 | JAVA2 | 简单运算 | [Java](./src/java.JAVA2.2128903/solution.java) | 入门  |
 | JAVA3 | 四舍五入 | [Java](./src/java.JAVA3.2123514/solution.java) | 入门  |
-| JAVA4 | 交换变量值 |  | 入门  |
+| JAVA4 | 交换变量值 | [Java](./src/java.JAVA4.2109099/solution.java) | 入门  |
 | JAVA5 | 计算商场折扣 |  | 入门  |
 | JAVA6 | 判断体重指数 |  | 简单  |
 | JAVA7 | 判断学生成绩等级 |  | 简单  |
@@ -619,10 +619,10 @@
 | JAVA34 | 求绝对值，平方根，对数，正弦值 | [Java](./src/java.JAVA34.2117801/solution.java) | 入门  |
 | JAVA35 | 输出某一年的各个月份的天数 | [Java](./src/java.JAVA35.2132783/solution.java) | 简单  |
 | JAVA36 | 日期换算 | [Java](./src/java.JAVA36.2120919/solution.java) | 中等  |
-| JAVA37 | 判断学生成绩 |  | 简单  |
-| JAVA38 | 字符串去重 |  | 简单  |
-| JAVA39 | 集合遍历 |  | 入门  |
-| JAVA40 | 排队系统 |  | 入门  |
+| JAVA37 | 判断学生成绩 | [Java](./src/java.JAVA37.2134590/solution.java) | 简单  |
+| JAVA38 | 字符串去重 | [Java](./src/java.JAVA38.2128755/solution.java) | 简单  |
+| JAVA39 | 集合遍历 | [Java](./src/java.JAVA39.2131146/solution.java) | 入门  |
+| JAVA40 | 排队系统 | [Java](./src/java.JAVA40.2137529/solution.java) | 入门  |
 | JAVA41 | 首尾交替出队 |  | 简单  |
 | JAVA42 | 统计一句话中重复单词的个数 |  | 中等  |
 | JAVA43 | map简单应用 |  | 简单  |
