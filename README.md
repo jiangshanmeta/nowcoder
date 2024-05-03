@@ -580,7 +580,7 @@
 | GP45 | 网络延迟 |  | 入门  |
 | GP46 | 体温异常 |  | 入门  |
 
-## Java (34/50)
+## Java (39/50)
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -623,11 +623,11 @@
 | JAVA38 | 字符串去重 | [Java](./src/java.JAVA38.2128755/solution.java) | 简单  |
 | JAVA39 | 集合遍历 | [Java](./src/java.JAVA39.2131146/solution.java) | 入门  |
 | JAVA40 | 排队系统 | [Java](./src/java.JAVA40.2137529/solution.java) | 入门  |
-| JAVA41 | 首尾交替出队 |  | 简单  |
-| JAVA42 | 统计一句话中重复单词的个数 |  | 中等  |
-| JAVA43 | map简单应用 |  | 简单  |
-| JAVA44 | 集合排序 |  | 简单  |
-| JAVA45 | 判断各类型字符个数 |  | 简单  |
+| JAVA41 | 首尾交替出队 | [Java](./src/java.JAVA41.2133506/solution.java) | 简单  |
+| JAVA42 | 统计一句话中重复单词的个数 | [Java](./src/java.JAVA42.2133514/solution.java) | 中等  |
+| JAVA43 | map简单应用 | [Java](./src/java.JAVA43.2117897/solution.java) | 简单  |
+| JAVA44 | 集合排序 | [Java](./src/java.JAVA44.2120080/solution.java) | 简单  |
+| JAVA45 | 判断各类型字符个数 | [Java](./src/java.JAVA45.2122549/solution.java) | 简单  |
 | JAVA46 | 编写个人所得税计算程序 |  | 中等  |
 | JAVA47 | 记录点赞用户 |  | 中等  |
 | JAVA48 | 回文数判断 |  | 中等  |
