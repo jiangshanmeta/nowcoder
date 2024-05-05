@@ -580,7 +580,7 @@
 | GP45 | 网络延迟 |  | 入门  |
 | GP46 | 体温异常 |  | 入门  |
 
-## Java (39/50)
+## Java (44/50)
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -588,7 +588,7 @@
 | JAVA2 | 简单运算 | [Java](./src/java.JAVA2.2128903/solution.java) | 入门  |
 | JAVA3 | 四舍五入 | [Java](./src/java.JAVA3.2123514/solution.java) | 入门  |
 | JAVA4 | 交换变量值 | [Java](./src/java.JAVA4.2109099/solution.java) | 入门  |
-| JAVA5 | 计算商场折扣 |  | 入门  |
+| JAVA5 | 计算商场折扣 | [Java](./src/java.JAVA5.2134195/solution.java) | 入门  |
 | JAVA6 | 判断体重指数 |  | 简单  |
 | JAVA7 | 判断学生成绩等级 |  | 简单  |
 | JAVA8 | 邮箱验证 |  | 简单  |
@@ -628,9 +628,9 @@
 | JAVA43 | map简单应用 | [Java](./src/java.JAVA43.2117897/solution.java) | 简单  |
 | JAVA44 | 集合排序 | [Java](./src/java.JAVA44.2120080/solution.java) | 简单  |
 | JAVA45 | 判断各类型字符个数 | [Java](./src/java.JAVA45.2122549/solution.java) | 简单  |
-| JAVA46 | 编写个人所得税计算程序 |  | 中等  |
-| JAVA47 | 记录点赞用户 |  | 中等  |
-| JAVA48 | 回文数判断 |  | 中等  |
-| JAVA49 | 判断素数个数 |  | 简单  |
+| JAVA46 | 编写个人所得税计算程序 | [Java](./src/java.JAVA46.2138213/solution.java) | 中等  |
+| JAVA47 | 记录点赞用户 | [Java](./src/java.JAVA47.2134207/solution.java) | 中等  |
+| JAVA48 | 回文数判断 | [Java](./src/java.JAVA48.2132150/solution.java) | 中等  |
+| JAVA49 | 判断素数个数 | [Java](./src/java.JAVA49.2127537/solution.java) | 简单  |
 | JAVA50 | 根据周长求面积 |  | 中等  |
 | JAVA51 | 冒泡排序 |  | 中等  |
