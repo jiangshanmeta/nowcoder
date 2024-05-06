@@ -580,7 +580,7 @@
 | GP45 | 网络延迟 |  | 入门  |
 | GP46 | 体温异常 |  | 入门  |
 
-## Java (44/50)
+## Java (50/50)
 
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
@@ -589,10 +589,10 @@
 | JAVA3 | 四舍五入 | [Java](./src/java.JAVA3.2123514/solution.java) | 入门  |
 | JAVA4 | 交换变量值 | [Java](./src/java.JAVA4.2109099/solution.java) | 入门  |
 | JAVA5 | 计算商场折扣 | [Java](./src/java.JAVA5.2134195/solution.java) | 入门  |
-| JAVA6 | 判断体重指数 |  | 简单  |
-| JAVA7 | 判断学生成绩等级 |  | 简单  |
-| JAVA8 | 邮箱验证 |  | 简单  |
-| JAVA9 | 数列求和 |  | 简单  |
+| JAVA6 | 判断体重指数 | [Java](./src/java.JAVA6.2109873/solution.java) | 简单  |
+| JAVA7 | 判断学生成绩等级 | [Java](./src/java.JAVA7.2110387/solution.java) | 简单  |
+| JAVA8 | 邮箱验证 | [Java](./src/java.JAVA8.2115629/solution.java) | 简单  |
+| JAVA9 | 数列求和 | [Java](./src/java.JAVA9.2137782/solution.java) | 简单  |
 | JAVA10 | 统计输入正数个数 | [Java](./src/java.JAVA10.2136367/solution.java) | 入门  |
 | JAVA11 | 求最小公倍数 | [Java](./src/java.JAVA11.2133839/solution.java) | 简单  |
 | JAVA12 | 小球走过路程计算 | [Java](./src/java.JAVA12.2117499/solution.java) | 简单  |
@@ -632,5 +632,5 @@
 | JAVA47 | 记录点赞用户 | [Java](./src/java.JAVA47.2134207/solution.java) | 中等  |
 | JAVA48 | 回文数判断 | [Java](./src/java.JAVA48.2132150/solution.java) | 中等  |
 | JAVA49 | 判断素数个数 | [Java](./src/java.JAVA49.2127537/solution.java) | 简单  |
-| JAVA50 | 根据周长求面积 |  | 中等  |
-| JAVA51 | 冒泡排序 |  | 中等  |
+| JAVA50 | 根据周长求面积 | [Java](./src/java.JAVA50.2117845/solution.java) | 中等  |
+| JAVA51 | 冒泡排序 | [Java](./src/java.JAVA51.2111797/solution.java) | 中等  |
